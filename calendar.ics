@@ -1,0 +1,1301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bay-events//Bay Area Electronic Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bay Area Electronic Events
+X-WR-CALDESC:Techno\, house\, EDM\, amapiano\, afrobeats & drum and bass e
+ vents in SF / Oakland / San Jose. Curated and verified daily.
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:biianco-1015-20260709@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260709T220000
+DTEND;TZID=America/Los_Angeles:20260710T020000
+SUMMARY:BIIANCO + Bushbaby
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: techno\, house | Tickets/info: https://1015.com/
+URL:https://1015.com/
+CATEGORIES:TECHNO,HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:louie-vega-publicworks-20260710@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260710T213000
+DTEND;TZID=America/Los_Angeles:20260711T023000
+SUMMARY:Louie Vega w/ David Harness
+LOCATION:Public Works\, San Francisco
+DESCRIPTION:Genres: house | House legend (Masters at Work). Sales flagged 
+ as ending soon. | Tickets/info: https://www.tixr.com/groups/publicsf/even
+ ts/louie-vega-presented-by-public-works-15utah-187070
+URL:https://www.tixr.com/groups/publicsf/events/louie-vega-presented-by-pu
+ blic-works-15utah-187070
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:throttle-marie-vaunt-1015-20260710@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260710T220000
+DTEND;TZID=America/Los_Angeles:20260711T020000
+SUMMARY:THROTTLE: Marie Vaunt
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: techno | Low-ticket warning. W/ Max Gardner b2b Adra\,
+  Youngmin Joo. | Tickets/info: https://ra.co/events/2407527
+URL:https://ra.co/events/2407527
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:shake-body-temple-20260710@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260710T220000
+DTEND;TZID=America/Los_Angeles:20260711T020000
+SUMMARY:Shake Body: Summer Nights
+LOCATION:Temple Nightclub\, San Francisco
+DESCRIPTION:Genres: afrobeats\, amapiano | Flygerian Jeff\, DJ Dennis\, Ma
+ dder. | Tickets/info: https://www.eventbrite.com/e/shake-body-summer-nigh
+ ts-tickets-1992977059033
+URL:https://www.eventbrite.com/e/shake-body-summer-nights-tickets-19929770
+ 59033
+CATEGORIES:AFROBEATS,AMAPIANO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lotek-elbo-20260710@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260710T210000
+DTEND;TZID=America/Los_Angeles:20260711T020000
+SUMMARY:Lotek
+LOCATION:Elbo Room Jack London\, Oakland
+DESCRIPTION:Genres: house\, techno\, dnb | Lonald J. Bandz\, lilia\, Zero 
+ Idea\, Soeneido. | Tickets/info: https://ra.co/events/2474595
+URL:https://ra.co/events/2474595
+CATEGORIES:HOUSE,TECHNO,DNB
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fraktured-asiento-20260710@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260710T200000
+DTEND;TZID=America/Los_Angeles:20260711T010000
+SUMMARY:Fraktured & Friends (free)
+LOCATION:Asiento\, San Francisco
+DESCRIPTION:Genres: dnb | Drum & bass / jungle / breaks. Free\, 21+. | Sta
+ tus: LIKELY (single source) — verify before going. | Tickets/info: http
+ s://19hz.info/eventlisting_BayArea.php
+URL:https://19hz.info/eventlisting_BayArea.php
+CATEGORIES:DNB
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:days-like-this-lakemerritt-2026@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260710T173000
+DTEND;TZID=America/Los_Angeles:20260710T213000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260731T235959Z
+SUMMARY:Days Like This (free sunset house)
+LOCATION:Lake Merritt Pergola\, Oakland
+DESCRIPTION:Genres: house\, day-party | Free\, all ages\, every Friday in 
+ July. | Tickets/info: https://www.instagram.com/dayslikethis.oakland
+URL:https://www.instagram.com/dayslikethis.oakland
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:anjunadeep-open-air-20260711@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260711T150000
+DTEND;TZID=America/Los_Angeles:20260711T220000
+SUMMARY:Anjunadeep Open Air Bay Area
+LOCATION:The Ruins\, American Canyon
+DESCRIPTION:Genres: house\, day-party | Tickets/info: https://www.ticketma
+ ster.com/anjunadeep-open-air-bay-area-at-american-canyon-07-11-2026/event
+ /Z7r9jZ1A7-9Od
+URL:https://www.ticketmaster.com/anjunadeep-open-air-bay-area-at-american-
+ canyon-07-11-2026/event/Z7r9jZ1A7-9Od
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:anjunadeep-afterparty-audio-20260711@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260711T213000
+DTEND;TZID=America/Los_Angeles:20260712T020000
+SUMMARY:Anjunadeep Bay Area After Party
+LOCATION:Audio + Bella\, San Francisco
+DESCRIPTION:Genres: house | Official after party for Anjunadeep Open Air. 
+ ~$25. | Tickets/info: https://www.eventbrite.com/e/anjunadeep-bay-area-af
+ ter-party-at-audio-bella-sf-tickets-1992853858537
+URL:https://www.eventbrite.com/e/anjunadeep-bay-area-after-party-at-audio-
+ bella-sf-tickets-1992853858537
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:crash-out-crybaby-20260711@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260711T220000
+DTEND;TZID=America/Los_Angeles:20260712T020000
+SUMMARY:Crash Out!
+LOCATION:Crybaby\, Oakland
+DESCRIPTION:Genres: afrobeats | Afrobeats/dancehall/soca. Jaymeebaaby\, Ch
+ ubb E Swagg\, Limo. | Tickets/info: https://www.eventbrite.com/e/crash-ou
+ t-afrobeats-dancehall-hip-hop-more-tickets-1993065124439
+URL:https://www.eventbrite.com/e/crash-out-afrobeats-dancehall-hip-hop-mor
+ e-tickets-1993065124439
+CATEGORIES:AFROBEATS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mango-szn-midway-20260711@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260711T140000
+DTEND;TZID=America/Los_Angeles:20260711T200000
+SUMMARY:Mango Szn Day Party
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Farooq Got Audio\, Qaotiq. Tech ho
+ use / indo house. | Time approximate — check ticket link. | Tickets/inf
+ o: https://www.tixr.com/groups/midwaysf/events/mango-szn-debut-day-party-
+ 194632
+URL:https://www.tixr.com/groups/midwaysf/events/mango-szn-debut-day-party-
+ 194632
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:electrik-seoul-midway-20260711@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260711T210000
+DTEND;TZID=America/Los_Angeles:20260712T020000
+SUMMARY:Electrik Seoul (K-pop x EDM) — HYO
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: edm | Time approximate — check ticket link. | Ticket
+ s/info: https://www.tixr.com/groups/midwaysf/events/electrik-seoul-k-pop-
+ x-edm-185965
+URL:https://www.tixr.com/groups/midwaysf/events/electrik-seoul-k-pop-x-edm
+ -185965
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pier-pressure-boat-20260711@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260711T160000
+DTEND;TZID=America/Los_Angeles:20260711T190000
+SUMMARY:Pier Pressure Boat Party
+LOCATION:departs Fisherman's Wharf\, San Francisco
+DESCRIPTION:Genres: edm\, house\, boat | Tickets/info: https://www.instagr
+ am.com/yinyoni.events
+URL:https://www.instagram.com/yinyoni.events
+CATEGORIES:EDM,HOUSE,BOAT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:omnom-unzipped-sj-20260711@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260711T160000
+SUMMARY:OMNOM
+LOCATION:Unzipped Gardens\, San Jose
+DESCRIPTION:Genres: house\, day-party | Time approximate — check ticket 
+ link. | Status: LIKELY (single source) — verify before going. | Tickets
+ /info: https://edmtrain.com/san-jose-ca
+URL:https://edmtrain.com/san-jose-ca
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:spectrum-saturdays-cardiff-2026@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260711T210000
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260725T235959Z
+SUMMARY:Spectrum Saturdays w/ Julius Papp (free)
+LOCATION:Cardiff & Cocktails\, San Jose
+DESCRIPTION:Genres: house | House / nu-disco\, free. | Time approximate 
+ — check ticket link. | Tickets/info: https://19hz.info/eventlisting_Bay
+ Area.php
+URL:https://19hz.info/eventlisting_BayArea.php
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yung-singh-audio-20260712@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260712T140000
+DTEND;TZID=America/Los_Angeles:20260712T190000
+SUMMARY:Yung Singh (day party)
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Tickets/info: https://www.eventbri
+ te.com/e/yung-singh-tickets-1991018528014
+URL:https://www.eventbrite.com/e/yung-singh-tickets-1991018528014
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:stamina-dnb-f8-2026@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260712T220000
+DTEND;TZID=America/Los_Angeles:20260713T020000
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260927T235959Z
+SUMMARY:Stamina Sundays (free weekly DnB)
+LOCATION:F8 — 1192 Folsom\, San Francisco
+DESCRIPTION:Genres: dnb | The Bay's long-running free drum & bass weekly. 
+ Occasional international guests. | Tickets/info: http://www.feightsf.com/
+ new-events
+URL:http://www.feightsf.com/new-events
+CATEGORIES:DNB
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:afro-thursdays-f8-2026@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260709T210000
+DTEND;TZID=America/Los_Angeles:20260710T020000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260924T235959Z
+SUMMARY:Afro Thursdays w/ Teego
+LOCATION:F8 — 1192 Folsom\, San Francisco
+DESCRIPTION:Genres: afrobeats\, house | Weekly afro house night. Verified 
+ through late July\; later dates assumed — recheck. | Tickets/info: http
+ s://www.eventbrite.com/o/teego-sf-41913010613
+URL:https://www.eventbrite.com/o/teego-sf-41913010613
+CATEGORIES:AFROBEATS,HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:stephan-bodzin-1015-20260717@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260717T220000
+DTEND;TZID=America/Los_Angeles:20260718T020000
+SUMMARY:Stephan Bodzin LIVE A/V
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: techno | Melodic techno live A/V. | Tickets/info: http
+ s://wl.eventim.us/event/stephan-bodzin/690548?afflky=1015Folsom
+URL:https://wl.eventim.us/event/stephan-bodzin/690548?afflky=1015Folsom
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yaeji-midway-20260717@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260717T210000
+DTEND;TZID=America/Los_Angeles:20260718T020000
+SUMMARY:Yaeji
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: house | Time approximate — check ticket link. | Tick
+ ets/info: https://www.tixr.com/groups/midwaysf/events/yaeji-186733
+URL:https://www.tixr.com/groups/midwaysf/events/yaeji-186733
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:craze-dieselboy-midway-20260717@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260717T210000
+DTEND;TZID=America/Los_Angeles:20260718T020000
+SUMMARY:Create and Destroy: Craze x Dieselboy
+LOCATION:The Midway (Terrace)\, San Francisco
+DESCRIPTION:Genres: dnb | ~$25-31\, 21+. | Tickets/info: https://www.axs.c
+ om/events/1472804/craze-and-dieselboy-tickets
+URL:https://www.axs.com/events/1472804/craze-and-dieselboy-tickets
+CATEGORIES:DNB
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:morgan-page-audio-20260717@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260717T213000
+DTEND;TZID=America/Los_Angeles:20260718T020000
+SUMMARY:Morgan Page (Classics Only)
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: edm\, house | Time approximate — check ticket link. 
+ | Tickets/info: https://m.audiosf.com/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:EDM,HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dirtybird-campout-20260717@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260721
+SUMMARY:Dirtybird Campout x Northern Nights
+LOCATION:Cooks Valley Campground\, Piercy\, CA
+DESCRIPTION:Genres: house\, edm\, festival | House/bass camping festival\,
+  ~3.5 hr north of SF. | Tickets/info: https://www.tixr.com/pr/FB/160064
+URL:https://www.tixr.com/pr/FB/160064
+CATEGORIES:HOUSE,EDM,FESTIVAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uncle-waffles-midway-20260718@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260718T210000
+DTEND;TZID=America/Los_Angeles:20260719T020000
+SUMMARY:Uncle Waffles — Midway 9-Year Anniversary
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: amapiano\, afrobeats | Amapiano's biggest star. | Time
+  approximate — check ticket link. | Tickets/info: https://www.tixr.com/
+ groups/midwaysf/events/uncle-waffles-the-midway-s-9-year-anniversary-1868
+ 89
+URL:https://www.tixr.com/groups/midwaysf/events/uncle-waffles-the-midway-s
+ -9-year-anniversary-186889
+CATEGORIES:AMAPIANO,AFROBEATS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kd-publicworks-20260718@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260718T213000
+DTEND;TZID=America/Los_Angeles:20260719T020000
+SUMMARY:K?D — End of the Universe Tour (final future bass show)
+LOCATION:Public Works\, San Francisco
+DESCRIPTION:Genres: edm | W/ Moore Kismet\, Chanse\, Norae\, Kaos. | Time 
+ approximate — check ticket link. | Tickets/info: https://www.tixr.com/g
+ roups/publicsf/events/k-d-end-of-the-universe-tour-the-final-future-bass-
+ show-185562
+URL:https://www.tixr.com/groups/publicsf/events/k-d-end-of-the-universe-to
+ ur-the-final-future-bass-show-185562
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:five-finger-disco-7thwest-20260718@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260718T150000
+DTEND;TZID=America/Los_Angeles:20260718T210000
+SUMMARY:Five Finger Disco x Elements
+LOCATION:7th West\, Oakland
+DESCRIPTION:Genres: house\, day-party | Nina Sol\, Patrick Wilson\, Charle
+ s Hawthorne. Funky/soulful house & disco. | Tickets/info: https://shotgun
+ .live/en/events/ffdsummer1
+URL:https://shotgun.live/en/events/ffdsummer1
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lavern-620jones-20260718@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260718T140000
+DTEND;TZID=America/Los_Angeles:20260718T200000
+SUMMARY:Lavern Day Party
+LOCATION:620 Jones\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Tickets/info: https://ra.co/events
+ /2438763
+URL:https://ra.co/events/2438763
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:love-supreme-chapel-20260719@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260719T140000
+DTEND;TZID=America/Los_Angeles:20260719T200000
+SUMMARY:Love Supreme: Summer Day Party
+LOCATION:The Chapel\, San Francisco
+DESCRIPTION:Genres: afrobeats\, amapiano\, house\, day-party | Travie Bobb
+ ito\, King Most\, Bella D. ~$15-27. | Tickets/info: https://www.eventim.u
+ s/event/love-supreme-summer-day-party-series/697524
+URL:https://www.eventim.us/event/love-supreme-summer-day-party-series/6975
+ 24
+CATEGORIES:AFROBEATS,AMAPIANO,HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:beats-on-the-bay-20260719@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260719T170000
+DTEND;TZID=America/Los_Angeles:20260719T213000
+SUMMARY:Beats On The Bay yacht cruise — Balkan Bump
+LOCATION:The Merlot\, departs Alameda\, Alameda
+DESCRIPTION:Genres: house\, dnb\, boat | Tickets/info: https://aplacetolov
+ e.earth/tickets
+URL:https://aplacetolove.earth/tickets
+CATEGORIES:HOUSE,DNB,BOAT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jerro-aracely-20260719@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260719T150000
+DTEND;TZID=America/Los_Angeles:20260719T200000
+SUMMARY:Jerro (day party)
+LOCATION:Aracely Cafe\, Treasure Island\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Tickets/info: https://ra.co/events
+ /2426054
+URL:https://ra.co/events/2426054
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ali-farahani-hotelvia-20260719@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260719T140000
+DTEND;TZID=America/Los_Angeles:20260719T190000
+SUMMARY:Sunset Rooftop w/ Ali Farahani
+LOCATION:Hotel VIA Rooftop\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Tickets/info: https://www.eventbri
+ te.com/e/sunset-rooftop-party-with-ali-farahani-at-via-hotel-tickets-1987
+ 643036829
+URL:https://www.eventbrite.com/e/sunset-rooftop-party-with-ali-farahani-at
+ -via-hotel-tickets-1987643036829
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tuff-dore-alley-1015-20260723@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260723T220000
+DTEND;TZID=America/Los_Angeles:20260724T020000
+SUMMARY:TUFF — Dore Alley Weekend Kickoff
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: techno | Tickets/info: https://1015.com/
+URL:https://1015.com/
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jody-wisternoff-audio-20260724@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260724T213000
+DTEND;TZID=America/Los_Angeles:20260725T020000
+SUMMARY:Jody Wisternoff & Nox Vahn (all night long)
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house | Anjunadeep. | Tickets/info: https://m.audiosf.
+ com/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sam-feldt-audio-20260725@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260725T140000
+DTEND;TZID=America/Los_Angeles:20260725T190000
+SUMMARY:Sam Feldt (day party)
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Tickets/info: https://www.axs.com/
+ events/1454743
+URL:https://www.axs.com/events/1454743
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:soul-clap-audio-20260725@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260725T213000
+DTEND;TZID=America/Los_Angeles:20260726T020000
+SUMMARY:Soul Clap
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house | Tickets/info: https://m.audiosf.com/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:party-pupils-midway-20260725@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260725T140000
+DTEND;TZID=America/Los_Angeles:20260725T200000
+SUMMARY:Party Pupils x Goshfather (day party)
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Disco house vs yacht house. | Tick
+ ets/info: https://www.tixr.com/groups/midwaysf/events/party-pupils-x-gosh
+ father-disco-house-vs-yacht-house-190125
+URL:https://www.tixr.com/groups/midwaysf/events/party-pupils-x-goshfather-
+ disco-house-vs-yacht-house-190125
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:niiko-swae-midway-20260725@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260725T210000
+DTEND;TZID=America/Los_Angeles:20260726T020000
+SUMMARY:Niiko x Swae
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: house\, edm | Time approximate — check ticket link. 
+ | Tickets/info: https://www.tixr.com/groups/midwaysf/events/niiko-x-swae-
+ 187871
+URL:https://www.tixr.com/groups/midwaysf/events/niiko-x-swae-187871
+CATEGORIES:HOUSE,EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bassedelic-hella-bees-20260725@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+SUMMARY:Bassedelic Weekender (Church of Drum and Bass)
+LOCATION:Hella Bees\, Oakland
+DESCRIPTION:Genres: dnb\, festival | Two days of DnB/jungle. 21+ Sat / 18+
+  Sun. | Tickets/info: https://19hz.info/eventlisting_BayArea.php
+URL:https://19hz.info/eventlisting_BayArea.php
+CATEGORIES:DNB,FESTIVAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:phreak-out-middleharbor-20260725@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260725T120000
+DTEND;TZID=America/Los_Angeles:20260725T190000
+SUMMARY:PHREAK Out: Oakland (outdoor daytime DnB)
+LOCATION:Middle Harbor Shoreline Park\, Oakland
+DESCRIPTION:Genres: dnb\, day-party | Status: LIKELY (single source) — v
+ erify before going. | Tickets/info: https://rhythmicremedies.org/events
+URL:https://rhythmicremedies.org/events
+CATEGORIES:DNB,DAY-PARTY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:daxson-aura-20260725@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260725T213000
+DTEND;TZID=America/Los_Angeles:20260726T020000
+SUMMARY:Daxson
+LOCATION:Aura Nightclub\, San Jose
+DESCRIPTION:Genres: edm | Trance. | Tickets/info: https://www.eventbrite.c
+ om/e/daxson-live-in-san-jose-tickets-1990544304599
+URL:https://www.eventbrite.com/e/daxson-live-in-san-jose-tickets-199054430
+ 4599
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bassnectar-sj-20260725@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260725T150000
+SUMMARY:Bassnectar — The Homecoming Show
+LOCATION:1 Paseo de San Antonio\, San Jose
+DESCRIPTION:Genres: edm | Note: artist has faced serious allegations/lawsu
+ its — listed for completeness. | Tickets/info: https://caltix.com/e/bas
+ snectar
+URL:https://caltix.com/e/bassnectar
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:colorize-praana-gn-20260731@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260731T200000
+DTEND;TZID=America/Los_Angeles:20260801T020000
+SUMMARY:Colorize: PRAANA\, Mees Salomé\, Jack Willard
+LOCATION:The Great Northern\, San Francisco
+DESCRIPTION:Genres: house | ~$32-37. 8 PM may be doors. | Tickets/info: ht
+ tps://www.eventbrite.com/e/colorize-san-francisco-praana-mees-salome-jack
+ -willard-tickets-1985934294936
+URL:https://www.eventbrite.com/e/colorize-san-francisco-praana-mees-salome
+ -jack-willard-tickets-1985934294936
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pegassi-1015-20260731@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260731T220000
+DTEND;TZID=America/Los_Angeles:20260801T020000
+SUMMARY:Pegassi (Factory 93)
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: techno | Tickets/info: https://1015.com/
+URL:https://1015.com/
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:baytek-forbes-island-20260731@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260804
+SUMMARY:Baytek 2026
+LOCATION:Forbes Island\, Isleton (Sacramento Delta)
+DESCRIPTION:Genres: techno\, dnb\, festival | Breaks / acid / techno / DnB
+ . | Tickets/info: https://buzzhive.info/e/bay-tek-2026-2026-06-26
+URL:https://buzzhive.info/e/bay-tek-2026-2026-06-26
+CATEGORIES:TECHNO,DNB,FESTIVAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:chris-luno-620jones-20260801@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260801T140000
+DTEND;TZID=America/Los_Angeles:20260801T200000
+SUMMARY:Chris Luno (day party)
+LOCATION:620 Jones\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Tickets/info: https://ra.co/events
+ /2453932
+URL:https://ra.co/events/2453932
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noir-high5ive-20260801@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260801T170000
+DTEND;TZID=America/Los_Angeles:20260801T210000
+SUMMARY:Noir: An Afrohouse Rooftop Experience
+LOCATION:High 5ive Rooftop Bar\, Oakland
+DESCRIPTION:Genres: afrobeats\, house\, day-party | DJ Hercules\, Deejay E
+ C\, DJ K-la V. Free parking. | Tickets/info: https://www.eventbrite.com/e
+ /noir-an-afrohouse-rooftop-experience-tickets-1992611521701
+URL:https://www.eventbrite.com/e/noir-an-afrohouse-rooftop-experience-tick
+ ets-1992611521701
+CATEGORIES:AFROBEATS,HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:atomic-groove-drakes-20260801@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260801T120000
+DTEND;TZID=America/Los_Angeles:20260801T220000
+SUMMARY:Atomic Groove (free\, 12-10 PM)
+LOCATION:Drake's Brewing\, San Leandro
+DESCRIPTION:Genres: house\, dnb\, day-party | Funky/jackin house\, DnB\, b
+ reaks. Free. | Tickets/info: https://www.eventbrite.com/e/atomic-groove-t
+ ickets-1990545954534
+URL:https://www.eventbrite.com/e/atomic-groove-tickets-1990545954534
+CATEGORIES:HOUSE,DNB,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:no-signal-audio-20260802@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260802T150000
+DTEND;TZID=America/Los_Angeles:20260802T210000
+SUMMARY:No Signal SF — Whomp Wagon Fundraiser (day party)
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Tickets/info: https://www.eventbri
+ te.com/e/no-signal-san-francisco-the-whomp-wagon-fundraiser-tickets-19917
+ 39232661
+URL:https://www.eventbrite.com/e/no-signal-san-francisco-the-whomp-wagon-f
+ undraiser-tickets-1991739232661
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:throttle-yukimatsu-1015-20260806@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260806T220000
+DTEND;TZID=America/Los_Angeles:20260807T020000
+SUMMARY:THROTTLE: Yousuke Yukimatsu (OSL night show) — SOLD OUT
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: techno | Reported sold out — watch for resale. | Tic
+ kets/info: https://apeconcerts.com/events/yousuke-yukimatsu-260806/
+URL:https://apeconcerts.com/events/yousuke-yukimatsu-260806/
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zack-fox-midway-20260806@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260806T210000
+DTEND;TZID=America/Los_Angeles:20260807T010000
+SUMMARY:Zack Fox (DJ set)
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: house | House/techno/ghettotech. Goldenvoice. | Time a
+ pproximate — check ticket link. | Tickets/info: https://www.tixr.com/gr
+ oups/midwaysfgv/events/zack-fox-182813
+URL:https://www.tixr.com/groups/midwaysfgv/events/zack-fox-182813
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:omnom-1015-20260807@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260807T220000
+DTEND;TZID=America/Los_Angeles:20260808T020000
+SUMMARY:OMNOM (OSL night show)
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: house | Tickets/info: https://wl.eventim.us/event/omno
+ m/696257?afflky=1015Folsom
+URL:https://wl.eventim.us/event/omnom/696257?afflky=1015Folsom
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:griz-independent-20260807@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260807T220000
+DTEND;TZID=America/Los_Angeles:20260808T020000
+SUMMARY:GRiZ (OSL night show)
+LOCATION:The Independent\, San Francisco
+DESCRIPTION:Genres: edm | Tickets/info: https://sfoutsidelands.com/music/n
+ ight-shows
+URL:https://sfoutsidelands.com/music/night-shows
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:outside-lands-20260807@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260810
+SUMMARY:Outside Lands 2026
+LOCATION:Golden Gate Park\, San Francisco
+DESCRIPTION:Genres: festival\, edm\, house\, techno | Electronic: RUFUS DU
+  SOL\, Boris Brejcha\, Boys Noize\, Miss Monique\, Carlita (Sun)\; Lane 8
+ \, Ben Bohmer\, Sultan+Shepard (Sat)\; GRiZTRONICS\, HYPERBEAM\, Yousuke 
+ Yukimatsu\, KI/KI (Fri). 3-day GA sold out\; single days via Front Gate. 
+ | Tickets/info: https://sfoutsidelands.com/
+URL:https://sfoutsidelands.com/
+CATEGORIES:FESTIVAL,EDM,HOUSE,TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jungle-cruise-boat-20260808@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260808T150000
+DTEND;TZID=America/Los_Angeles:20260808T210000
+SUMMARY:Jungle Cruise Boat Party (DnB)
+LOCATION:departs Fisherman's Wharf\, San Francisco
+DESCRIPTION:Genres: dnb\, boat | ~$108. MF Mama\, Lucy Stoner\, Chronique 
+ + MC Alkamystix. | Tickets/info: https://calling-all-ravers-jungle-cruise
+ -boat-party.secretparty.io
+URL:https://calling-all-ravers-jungle-cruise-boat-party.secretparty.io
+CATEGORIES:DNB,BOAT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:camoufly-gn-20260808@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260808T210000
+DTEND;TZID=America/Los_Angeles:20260809T020000
+SUMMARY:camoufly + 1-800 GIRLS (OSL night show)
+LOCATION:The Great Northern\, San Francisco
+DESCRIPTION:Genres: edm\, house | Time approximate — check ticket link. 
+ | Tickets/info: https://sfoutsidelands.com/music/night-shows
+URL:https://sfoutsidelands.com/music/night-shows
+CATEGORIES:EDM,HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ben-bohmer-independent-20260809@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260809T200000
+DTEND;TZID=America/Los_Angeles:20260809T235900
+SUMMARY:Ben Böhmer (OSL night show)
+LOCATION:The Independent\, San Francisco
+DESCRIPTION:Genres: house | Time approximate — check ticket link. | Tick
+ ets/info: https://sfoutsidelands.com/music/night-shows
+URL:https://sfoutsidelands.com/music/night-shows
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:desert-hearts-blanco-20260809@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260809T140000
+DTEND;TZID=America/Los_Angeles:20260809T200000
+SUMMARY:Desert Hearts Rooftop Party
+LOCATION:Blanco Urban\, San Jose
+DESCRIPTION:Genres: house\, techno\, day-party | Tara Brooks\, Deep Pedi\,
+  Logan Conners. | Tickets/info: https://www.eventbrite.com/e/desert-heart
+ s-san-jose-rooftop-party-tickets-1992137866987
+URL:https://www.eventbrite.com/e/desert-hearts-san-jose-rooftop-party-tick
+ ets-1992137866987
+CATEGORIES:HOUSE,TECHNO,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lyny-1015-20260814@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260814T220000
+DTEND;TZID=America/Los_Angeles:20260815T020000
+SUMMARY:LYNY
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: edm | Tickets/info: https://1015.com/
+URL:https://1015.com/
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:texture-summit-publicworks-20260815@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260815T213000
+DTEND;TZID=America/Los_Angeles:20260816T020000
+SUMMARY:Texture Summit x Roam x Sirens ft. Juan Maclean (DFA)
+LOCATION:Public Works\, San Francisco
+DESCRIPTION:Genres: house\, techno | Time approximate — check ticket lin
+ k. | Tickets/info: https://www.tixr.com/groups/publicsf/events/texture-su
+ mmit-x-roam-x-sirens-ft-juan-maclean-dj-perception-and-more-195615
+URL:https://www.tixr.com/groups/publicsf/events/texture-summit-x-roam-x-si
+ rens-ft-juan-maclean-dj-perception-and-more-195615
+CATEGORIES:HOUSE,TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:embrz-audio-20260815@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260815T140000
+DTEND;TZID=America/Los_Angeles:20260815T190000
+SUMMARY:EMBRZ (day party)
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Tickets/info: https://m.audiosf.co
+ m/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:afrobashment-crybaby-20260815@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260815T223000
+DTEND;TZID=America/Los_Angeles:20260816T020000
+SUMMARY:AFROBASHMENT
+LOCATION:Crybaby\, Oakland
+DESCRIPTION:Genres: afrobeats\, amapiano | Amapiano patio takeover by FAAJ
+ I in past editions. | Tickets/info: https://www.ticketweb.com/event/afrob
+ ashment-afrobeats-dancehall-hip-hop-crybaby-tickets/14210794
+URL:https://www.ticketweb.com/event/afrobashment-afrobeats-dancehall-hip-h
+ op-crybaby-tickets/14210794
+CATEGORIES:AFROBEATS,AMAPIANO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bass-brunch-midway-20260815@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260815T140000
+DTEND;TZID=America/Los_Angeles:20260815T200000
+SUMMARY:Bass Brunch
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: edm\, day-party | Tickets/info: https://www.tixr.com/g
+ roups/midwaysf/events/bass-brunch-by-thematic-entertainment-192386
+URL:https://www.tixr.com/groups/midwaysf/events/bass-brunch-by-thematic-en
+ tertainment-192386
+CATEGORIES:EDM,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2000s-rave-midway-20260815@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260815T210000
+DTEND;TZID=America/Los_Angeles:20260816T020000
+SUMMARY:2000s Rave
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: edm\, house | Time approximate — check ticket link. 
+ | Tickets/info: https://www.tixr.com/groups/midwaysf/events/2000-s-rave-1
+ 87874
+URL:https://www.tixr.com/groups/midwaysf/events/2000-s-rave-187874
+CATEGORIES:EDM,HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rival-consoles-1015-20260820@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260820T220000
+DTEND;TZID=America/Los_Angeles:20260821T020000
+SUMMARY:Rival Consoles Live A/V (w/ Khotin)
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: techno | Tickets/info: https://1015.com/
+URL:https://1015.com/
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:oliver-koletzki-publicworks-20260821@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260821T213000
+DTEND;TZID=America/Los_Angeles:20260822T020000
+SUMMARY:Oliver Koletzki
+LOCATION:Public Works\, San Francisco
+DESCRIPTION:Genres: techno\, house | Stil vor Talent. | Tickets/info: http
+ s://www.tixr.com/groups/publicsf/events/oliver-koletzki-presented-by-publ
+ ic-works-188501
+URL:https://www.tixr.com/groups/publicsf/events/oliver-koletzki-presented-
+ by-public-works-188501
+CATEGORIES:TECHNO,HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:throttle-oguz-1015-20260821@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260821T220000
+DTEND;TZID=America/Los_Angeles:20260822T020000
+SUMMARY:THROTTLE: OGUZ (SF debut)
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: techno | Tickets/info: https://ra.co/events/2470814
+URL:https://ra.co/events/2470814
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wobbleland-sjcc-20260821@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260823
+SUMMARY:Wobbleland 2026 (Bassrush)
+LOCATION:San Jose Convention Center\, San Jose
+DESCRIPTION:Genres: edm\, dnb\, festival | 6 PM nightly\, 18+. Excision\, 
+ Alison Wonderland b2b NGHTMRE\, Adventure Club\, Ray Volpe\, Hedex (DnB).
+  | Tickets/info: https://bassrush.frontgatetickets.com/event/p5uo1c8jikpi
+ ero6
+URL:https://bassrush.frontgatetickets.com/event/p5uo1c8jikpiero6
+CATEGORIES:EDM,DNB,FESTIVAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:afrobeats-lake-snowpark-20260822@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260822T130000
+DTEND;TZID=America/Los_Angeles:20260822T200000
+SUMMARY:Afrobeats at the Lake — Juls (8th annual)
+LOCATION:Snow Park\, Lake Merritt\, Oakland
+DESCRIPTION:Genres: afrobeats\, day-party | All ages\, outdoor. Juls headl
+ ining. | Tickets/info: https://www.eventbrite.com/e/the-eighth-annual-afr
+ obeats-at-the-lake-2026-oakland-ca-tickets-1990061660999
+URL:https://www.eventbrite.com/e/the-eighth-annual-afrobeats-at-the-lake-2
+ 026-oakland-ca-tickets-1990061660999
+CATEGORIES:AFROBEATS,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:chris-lake-arena-green-20260822@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260822T140000
+DTEND;TZID=America/Los_Angeles:20260822T210000
+SUMMARY:Chris Lake (open air)
+LOCATION:Arena Green East\, San Jose
+DESCRIPTION:Genres: house\, day-party | W/ Murda Beatz\, Jackie Hollander.
+  | Tickets/info: https://www.eventbrite.com/e/chris-lake-arena-green-east
+ -san-jose-tickets-1991719990106
+URL:https://www.eventbrite.com/e/chris-lake-arena-green-east-san-jose-tick
+ ets-1991719990106
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:karaba-audio-20260822@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260822T193000
+DTEND;TZID=America/Los_Angeles:20260823T020000
+SUMMARY:Karaba + G-stav + Atang
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house\, afrobeats | Afro house / tech house. $17 presa
+ le. | Tickets/info: https://ra.co/events/2431360
+URL:https://ra.co/events/2431360
+CATEGORIES:HOUSE,AFROBEATS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jungle-soundclash-20260822@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:The Bay vs. LA Jungle Soundclash Battle
+LOCATION:San Francisco
+DESCRIPTION:Genres: dnb | Venue TBA — recheck closer to date. | Status: 
+ LIKELY (single source) — verify before going. | Tickets/info: https://t
+ he-bay-vs-la-junglesoundclashbattle-82226.secretparty.io
+URL:https://the-bay-vs-la-junglesoundclashbattle-82226.secretparty.io
+CATEGORIES:DNB
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eric-luttrell-hotelvia-20260823@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260823T130000
+DTEND;TZID=America/Los_Angeles:20260823T180000
+SUMMARY:Eric Luttrell rooftop (Anjunadeep)
+LOCATION:Hotel VIA Rooftop\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Listed 'Almost full' — buy soon.
+  | Tickets/info: https://www.eventbrite.com/e/eric-luttrell-at-the-hotel-
+ via-rooftop-tickets-1987478853753
+URL:https://www.eventbrite.com/e/eric-luttrell-at-the-hotel-via-rooftop-ti
+ ckets-1987478853753
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:chasewest-1015-20260828@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260828T220000
+DTEND;TZID=America/Los_Angeles:20260829T020000
+SUMMARY:ChaseWest
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: edm | Tickets/info: https://1015.com/
+URL:https://1015.com/
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:crash-out-2-crybaby-20260829@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260829T220000
+DTEND;TZID=America/Los_Angeles:20260830T020000
+SUMMARY:Crash Out (2nd edition)
+LOCATION:Crybaby\, Oakland
+DESCRIPTION:Genres: afrobeats | Time approximate — check ticket link. | 
+ Tickets/info: https://www.ticketweb.com/event/crash-out-afrobeats-danceha
+ ll-hip-crybaby-tickets/14986193
+URL:https://www.ticketweb.com/event/crash-out-afrobeats-dancehall-hip-cryb
+ aby-tickets/14986193
+CATEGORIES:AFROBEATS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kasbo-midway-20260830@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260830T150000
+DTEND;TZID=America/Los_Angeles:20260830T200000
+SUMMARY:Kasbo — Labyrinth Tour (day show)
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: edm\, day-party | Tickets/info: https://www.tixr.com/g
+ roups/midwaysf/events/kasbo-labyrinth-tour-188803
+URL:https://www.tixr.com/groups/midwaysf/events/kasbo-labyrinth-tour-18880
+ 3
+CATEGORIES:EDM,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jason-ross-1015-20260904@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260904T220000
+DTEND;TZID=America/Los_Angeles:20260905T020000
+SUMMARY:Jason Ross — The True North Tour
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: edm | Tickets/info: https://www.axs.com/events/1442673
+ /jason-ross-tickets
+URL:https://www.axs.com/events/1442673/jason-ross-tickets
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:electroluxx-pdm-midway-20260905@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260905T150000
+DTEND;TZID=America/Los_Angeles:20260905T220000
+SUMMARY:Electroluxx Block Party: Purple Disco Machine + RuPaul
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Tickets/info: https://www.tixr.com
+ /groups/midwaysf/events/electroluxx-block-party-purple-disco-machine-rupa
+ ul-more-188276
+URL:https://www.tixr.com/groups/midwaysf/events/electroluxx-block-party-pu
+ rple-disco-machine-rupaul-more-188276
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:love-supreme-chapel-20260906@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260906T140000
+DTEND;TZID=America/Los_Angeles:20260906T200000
+SUMMARY:Love Supreme: Summer Day Party
+LOCATION:The Chapel\, San Francisco
+DESCRIPTION:Genres: afrobeats\, amapiano\, house\, day-party | Tickets/inf
+ o: https://www.eventim.us/event/love-supreme-summer-day-party-series/6978
+ 19
+URL:https://www.eventim.us/event/love-supreme-summer-day-party-series/6978
+ 19
+CATEGORIES:AFROBEATS,AMAPIANO,HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fatima-hajji-publicworks-20260911@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260911T213000
+DTEND;TZID=America/Los_Angeles:20260912T020000
+SUMMARY:Fatima Hajji
+LOCATION:Public Works\, San Francisco
+DESCRIPTION:Genres: techno | Spanish techno. From ~$58. | Tickets/info: ht
+ tps://www.tixr.com/groups/publicsf/events/fatima-hajji-presented-by-publi
+ c-works-193237
+URL:https://www.tixr.com/groups/publicsf/events/fatima-hajji-presented-by-
+ public-works-193237
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:joshwa-audio-20260912@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260912T213000
+DTEND;TZID=America/Los_Angeles:20260913T020000
+SUMMARY:JOSHWA (Audio debut)
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house | Tech house. From ~$34. | Tickets/info: https:/
+ /m.audiosf.com/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:stamped-endup-20260912@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260912T150000
+DTEND;TZID=America/Los_Angeles:20260912T210000
+SUMMARY:STAMPED: AYA x Friends (afrobeats/amapiano day party)
+LOCATION:The EndUp\, San Francisco
+DESCRIPTION:Genres: afrobeats\, amapiano\, day-party | Tickets/info: https
+ ://www.eventbrite.com/e/stamped-aya-x-friends-san-francisco-edition-afrob
+ eats-amapiano-tickets-1985882863102
+URL:https://www.eventbrite.com/e/stamped-aya-x-friends-san-francisco-editi
+ on-afrobeats-amapiano-tickets-1985882863102
+CATEGORIES:AFROBEATS,AMAPIANO,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sabai-sjcivic-20260912@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260912T200000
+DTEND;TZID=America/Los_Angeles:20260912T235900
+SUMMARY:SABAI presents IKIGAI Bay Area
+LOCATION:San Jose Civic\, San Jose
+DESCRIPTION:Genres: edm | W/ Haliene\, Mvse\, Miles Away. | Tickets/info: 
+ https://www.ticketmaster.com/event/1C00647FE6758CE2
+URL:https://www.ticketmaster.com/event/1C00647FE6758CE2
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nick-warren-audio-20260918@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260918T213000
+DTEND;TZID=America/Los_Angeles:20260919T020000
+SUMMARY:Nick Warren (w/ Verlk)
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house | Progressive house veteran. | Tickets/info: htt
+ ps://m.audiosf.com/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mild-minds-1015-20260918@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260918T220000
+DTEND;TZID=America/Los_Angeles:20260919T020000
+SUMMARY:Mild Minds (DJ set)
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: house | Tickets/info: https://1015.com/
+URL:https://1015.com/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:entanglement-20260918@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+SUMMARY:Entanglement — techno/electro/jungle/UKG
+LOCATION:Bay Area
+DESCRIPTION:Genres: techno\, dnb | Venue TBA — recheck closer to date. |
+  Status: LIKELY (single source) — verify before going. | Tickets/info: 
+ https://www.instagram.com/__endzeit
+URL:https://www.instagram.com/__endzeit
+CATEGORIES:TECHNO,DNB
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:love-supreme-chapel-20260920@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20260920T140000
+DTEND;TZID=America/Los_Angeles:20260920T200000
+SUMMARY:Love Supreme: Summer Day Party
+LOCATION:The Chapel\, San Francisco
+DESCRIPTION:Genres: afrobeats\, amapiano\, house\, day-party | Tickets/inf
+ o: https://www.eventim.us/event/love-supreme-summer-day-party-series/6978
+ 38
+URL:https://www.eventim.us/event/love-supreme-summer-day-party-series/6978
+ 38
+CATEGORIES:AFROBEATS,AMAPIANO,HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:portola-20260926@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:PORTOLA MUSIC FESTIVAL 2026
+LOCATION:Pier 80\, San Francisco
+DESCRIPTION:Genres: festival\, techno\, house\, edm | Sat: Robyn\, Dog Blo
+ od\, Fatboy Slim\, Soulwax\, Kettama\, Skepta\, Groove Armada. Sun: Swedi
+ sh House Mafia\, Tiesto\, Four Tet\, Overmono\, Mochakk\, Daphni. Despaci
+ o all weekend. 21+\, 1 PM doors. 2-day GA $399.95 / 1-day $269.95. | Tick
+ ets/info: https://www.axs.com/events/1434447/portola-2026-tickets?skin=po
+ rtola
+URL:https://www.axs.com/events/1434447/portola-2026-tickets?skin=portola
+CATEGORIES:FESTIVAL,TECHNO,HOUSE,EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:whipped-cream-midway-20261009@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20261009T210000
+DTEND;TZID=America/Los_Angeles:20261010T020000
+SUMMARY:Whipped Cream
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: edm | Time approximate — check ticket link. | Ticket
+ s/info: https://www.tixr.com/groups/midwaysf
+URL:https://www.tixr.com/groups/midwaysf
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:london-elektricity-oakland-20261010@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20261010T220000
+DTEND;TZID=America/Los_Angeles:20261011T020000
+SUMMARY:London Elektricity + Natty Lou + Naste (Church of Drum and Bass)
+LOCATION:Church of Drum and Bass\, Oakland
+DESCRIPTION:Genres: dnb | Time approximate — check ticket link. | Ticket
+ s/info: https://19hz.info/eventlisting_BayArea.php
+URL:https://19hz.info/eventlisting_BayArea.php
+CATEGORIES:DNB
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tinlicker-midway-20261010@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;TZID=America/Los_Angeles:20261010T210000
+DTEND;TZID=America/Los_Angeles:20261011T020000
+SUMMARY:Tinlicker
+LOCATION:The Midway\, San Francisco
+DESCRIPTION:Genres: house | Time approximate — check ticket link. | Tick
+ ets/info: https://www.tixr.com/groups/midwaysf
+URL:https://www.tixr.com/groups/midwaysf
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:day-trip-norcal-20261017@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Day Trip Festival NorCal — Gordo\, Vintage Culture\, Wax Motif
+LOCATION:Discovery Meadow\, San Jose
+DESCRIPTION:Genres: house\, festival | Tickets/info: https://www.insomniac
+ .com/
+URL:https://www.insomniac.com/
+CATEGORIES:HOUSE,FESTIVAL
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sunset-halloween-boat-20261025@bay-events.cameronking
+DTSTAMP:20260706T214154Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Sunset Sound System Halloween Costume Boat Party
+LOCATION:departs San Francisco\, San Francisco
+DESCRIPTION:Genres: house\, boat | Legendary SF boat party crew. | Tickets
+ /info: https://www.sunsetsoundsystem.com/events
+URL:https://www.sunsetsoundsystem.com/events
+CATEGORIES:HOUSE,BOAT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
