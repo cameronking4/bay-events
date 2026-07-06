@@ -27,7 +27,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:biianco-1015-20260709@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260709T220000
 DTEND;TZID=America/Los_Angeles:20260710T020000
 SUMMARY:BIIANCO + Bushbaby
@@ -39,7 +39,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:louie-vega-publicworks-20260710@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260710T213000
 DTEND;TZID=America/Los_Angeles:20260711T023000
 SUMMARY:Louie Vega w/ David Harness
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:throttle-marie-vaunt-1015-20260710@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260710T220000
 DTEND;TZID=America/Los_Angeles:20260711T020000
 SUMMARY:THROTTLE: Marie Vaunt
@@ -67,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:shake-body-temple-20260710@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260710T220000
 DTEND;TZID=America/Los_Angeles:20260711T020000
 SUMMARY:Shake Body: Summer Nights
@@ -82,7 +82,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lotek-elbo-20260710@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260710T210000
 DTEND;TZID=America/Los_Angeles:20260711T020000
 SUMMARY:Lotek
@@ -95,7 +95,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fraktured-asiento-20260710@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260710T200000
 DTEND;TZID=America/Los_Angeles:20260711T010000
 SUMMARY:Fraktured & Friends (free)
@@ -108,8 +108,50 @@ CATEGORIES:DNB
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:slander-billgraham-20260710@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260710T200000
+DTEND;TZID=America/Los_Angeles:20260710T235900
+SUMMARY:SLANDER w/ Space Laces — SOLD OUT
+LOCATION:Bill Graham Civic Auditorium\, San Francisco
+DESCRIPTION:Genres: edm | Night 1 of 2. Doors 7 PM. 18+. Sold out — resa
+ le via AXS. | Tickets/info: https://billgrahamcivic.com/events/slander-26
+ 0710
+URL:https://billgrahamcivic.com/events/slander-260710
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mark-farina-cardiff-20260710@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260710T210000
+DTEND;TZID=America/Los_Angeles:20260711T013000
+SUMMARY:Mark Farina & Mr. V (Ramirez Touch)
+LOCATION:Cardiff & Cocktails\, Campbell
+DESCRIPTION:Genres: house | SF house legend. ~$18-29\, 21+. Listed 'almost
+  full'. | Tickets/info: https://19hz.info/eventlisting_BayArea.php
+URL:https://19hz.info/eventlisting_BayArea.php
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:klaudia-gawlas-halcyon-20260710@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260710T220000
+DTEND;TZID=America/Los_Angeles:20260711T040000
+SUMMARY:Klaudia Gawlas
+LOCATION:Halcyon\, San Francisco
+DESCRIPTION:Genres: techno | German techno. W/ Lyssn Up\, Fiers. From $12.
+  | Tickets/info: https://dice.fm/event/rykl2r-klaudia-gawlas-10th-jul-hal
+ cyon-sf-san-francisco-tickets
+URL:https://dice.fm/event/rykl2r-klaudia-gawlas-10th-jul-halcyon-sf-san-fr
+ ancisco-tickets
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:days-like-this-lakemerritt-2026@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260710T173000
 DTEND;TZID=America/Los_Angeles:20260710T213000
 RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20260731T235959Z
@@ -123,7 +165,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:anjunadeep-open-air-20260711@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260711T150000
 DTEND;TZID=America/Los_Angeles:20260711T220000
 SUMMARY:Anjunadeep Open Air Bay Area
@@ -138,7 +180,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:anjunadeep-afterparty-audio-20260711@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260711T213000
 DTEND;TZID=America/Los_Angeles:20260712T020000
 SUMMARY:Anjunadeep Bay Area After Party
@@ -153,7 +195,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:crash-out-crybaby-20260711@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260711T220000
 DTEND;TZID=America/Los_Angeles:20260712T020000
 SUMMARY:Crash Out!
@@ -168,7 +210,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:mango-szn-midway-20260711@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260711T140000
 DTEND;TZID=America/Los_Angeles:20260711T200000
 SUMMARY:Mango Szn Day Party
@@ -184,7 +226,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:electrik-seoul-midway-20260711@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260711T210000
 DTEND;TZID=America/Los_Angeles:20260712T020000
 SUMMARY:Electrik Seoul (K-pop x EDM) — HYO
@@ -199,7 +241,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pier-pressure-boat-20260711@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260711T160000
 DTEND;TZID=America/Los_Angeles:20260711T190000
 SUMMARY:Pier Pressure Boat Party
@@ -212,20 +254,35 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:omnom-unzipped-sj-20260711@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260711T160000
+DTEND;TZID=America/Los_Angeles:20260711T220000
 SUMMARY:OMNOM
 LOCATION:Unzipped Gardens\, San Jose
-DESCRIPTION:Genres: house\, day-party | Time approximate — check ticket 
- link. | Status: LIKELY (single source) — verify before going. | Tickets
- /info: https://edmtrain.com/san-jose-ca
-URL:https://edmtrain.com/san-jose-ca
+DESCRIPTION:Genres: house\, day-party | Outdoor at the Serpentine Pavilion
+ \, SoFA district. W/ Caleb Dent. 18+. | Tickets/info: https://www.eventbr
+ ite.com/e/omnom-at-unzipped-gardens-san-jose-tickets-1989195450139
+URL:https://www.eventbrite.com/e/omnom-at-unzipped-gardens-san-jose-ticket
+ s-1989195450139
 CATEGORIES:HOUSE,DAY-PARTY
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:slander-billgraham-20260711@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260711T200000
+DTEND;TZID=America/Los_Angeles:20260711T235900
+SUMMARY:SLANDER w/ Nurko\, Taiki Nulight\, VCTRE
+LOCATION:Bill Graham Civic Auditorium\, San Francisco
+DESCRIPTION:Genres: edm | Night 2 of 2. Doors 7 PM. 18+. | Tickets/info: h
+ ttps://billgrahamcivic.com/calendar/
+URL:https://billgrahamcivic.com/calendar/
+CATEGORIES:EDM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:spectrum-saturdays-cardiff-2026@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260711T210000
 RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260725T235959Z
 SUMMARY:Spectrum Saturdays w/ Julius Papp (free)
@@ -239,7 +296,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:yung-singh-audio-20260712@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260712T140000
 DTEND;TZID=America/Los_Angeles:20260712T190000
 SUMMARY:Yung Singh (day party)
@@ -252,7 +309,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:stamina-dnb-f8-2026@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260712T220000
 DTEND;TZID=America/Los_Angeles:20260713T020000
 RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20260927T235959Z
@@ -267,7 +324,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:afro-thursdays-f8-2026@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260709T210000
 DTEND;TZID=America/Los_Angeles:20260710T020000
 RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20260924T235959Z
@@ -281,8 +338,75 @@ CATEGORIES:AFROBEATS,HOUSE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:max-cooper-grayarea-20260716@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260716T190000
+DTEND;TZID=America/Los_Angeles:20260717T020000
+SUMMARY:Max Cooper — 3D/AV Live 'Feeling Is Structure'
+LOCATION:Gray Area\, San Francisco
+DESCRIPTION:Genres: techno | Night 1 of 2. $37-44\, 21+. | Tickets/info: h
+ ttps://grayarea.org/events/
+URL:https://grayarea.org/events/
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:max-cooper-grayarea-20260717@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260717T200000
+DTEND;TZID=America/Los_Angeles:20260718T020000
+SUMMARY:Max Cooper — 3D/AV Live 'Feeling Is Structure'
+LOCATION:Gray Area\, San Francisco
+DESCRIPTION:Genres: techno | Night 2 of 2. $37-44\, 21+. | Time approximat
+ e — check ticket link. | Tickets/info: https://grayarea.org/events/
+URL:https://grayarea.org/events/
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bob-moses-greek-20260717@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260717T193000
+DTEND;TZID=America/Los_Angeles:20260717T230000
+SUMMARY:Bob Moses & Cannons — AfterGlow Tour
+LOCATION:Greek Theatre\, Berkeley
+DESCRIPTION:Genres: house\, edm | Live electronic. Doors 6:30 PM\, all age
+ s\, GA. | Tickets/info: https://apeconcerts.com/events/bob-moses-cannons-
+ 260717/
+URL:https://apeconcerts.com/events/bob-moses-cannons-260717/
+CATEGORIES:HOUSE,EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bad-tuner-independent-20260717@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260717T210000
+DTEND;TZID=America/Los_Angeles:20260718T010000
+SUMMARY:bad tuner + VEGGI
+LOCATION:The Independent\, San Francisco
+DESCRIPTION:Genres: house | UK garage / funky house. ~$34\, 18+. | Tickets
+ /info: https://www.theindependentsf.com/
+URL:https://www.theindependentsf.com/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:satoshi-tomiie-monarch-20260717@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260717T210000
+DTEND;TZID=America/Los_Angeles:20260718T030000
+SUMMARY:Satoshi Tomiie
+LOCATION:Monarch\, San Francisco
+DESCRIPTION:Genres: house\, techno | NYC/Def Mix house legend. W/ Philco\,
+  Jkey\, Ledet. $23-34. | Status: LIKELY (single source) — verify before
+  going. | Tickets/info: https://19hz.info/eventlisting_BayArea.php
+URL:https://19hz.info/eventlisting_BayArea.php
+CATEGORIES:HOUSE,TECHNO
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:stephan-bodzin-1015-20260717@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260717T220000
 DTEND;TZID=America/Los_Angeles:20260718T020000
 SUMMARY:Stephan Bodzin LIVE A/V
@@ -295,7 +419,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:yaeji-midway-20260717@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260717T210000
 DTEND;TZID=America/Los_Angeles:20260718T020000
 SUMMARY:Yaeji
@@ -308,7 +432,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:craze-dieselboy-midway-20260717@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260717T210000
 DTEND;TZID=America/Los_Angeles:20260718T020000
 SUMMARY:Create and Destroy: Craze x Dieselboy
@@ -321,7 +445,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:morgan-page-audio-20260717@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260717T213000
 DTEND;TZID=America/Los_Angeles:20260718T020000
 SUMMARY:Morgan Page (Classics Only)
@@ -334,7 +458,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dirtybird-campout-20260717@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260721
 SUMMARY:Dirtybird Campout x Northern Nights
@@ -347,7 +471,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:uncle-waffles-midway-20260718@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260718T210000
 DTEND;TZID=America/Los_Angeles:20260719T020000
 SUMMARY:Uncle Waffles — Midway 9-Year Anniversary
@@ -363,7 +487,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kd-publicworks-20260718@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260718T213000
 DTEND;TZID=America/Los_Angeles:20260719T020000
 SUMMARY:K?D — End of the Universe Tour (final future bass show)
@@ -379,7 +503,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:five-finger-disco-7thwest-20260718@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260718T150000
 DTEND;TZID=America/Los_Angeles:20260718T210000
 SUMMARY:Five Finger Disco x Elements
@@ -393,7 +517,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lavern-620jones-20260718@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260718T140000
 DTEND;TZID=America/Los_Angeles:20260718T200000
 SUMMARY:Lavern Day Party
@@ -405,8 +529,36 @@ CATEGORIES:HOUSE,DAY-PARTY
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:alex-orion-publicworksloft-20260718@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260718T210000
+DTEND;TZID=America/Los_Angeles:20260719T020000
+SUMMARY:Droid9 pres. Alex O'Rion
+LOCATION:Public Works (Loft)\, San Francisco
+DESCRIPTION:Genres: house | Progressive house. $10-20. | Tickets/info: htt
+ ps://www.tixr.com/groups/publicsf/events/droid9-pres-alex-o-rion-189195
+URL:https://www.tixr.com/groups/publicsf/events/droid9-pres-alex-o-rion-18
+ 9195
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mike-dunn-madoak-20260718@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260718T140000
+DTEND;TZID=America/Los_Angeles:20260718T220000
+SUMMARY:Sunshine People: Mike Dunn + Coflo (day party)
+LOCATION:Mad Oak Bar\, Oakland
+DESCRIPTION:Genres: house\, day-party | Chicago house legend Mike Dunn. ~$
+ 18-29\, 21+. | Status: LIKELY (single source) — verify before going. | 
+ Tickets/info: https://19hz.info/eventlisting_BayArea.php
+URL:https://19hz.info/eventlisting_BayArea.php
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:love-supreme-chapel-20260719@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260719T140000
 DTEND;TZID=America/Los_Angeles:20260719T200000
 SUMMARY:Love Supreme: Summer Day Party
@@ -421,7 +573,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:beats-on-the-bay-20260719@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260719T170000
 DTEND;TZID=America/Los_Angeles:20260719T213000
 SUMMARY:Beats On The Bay yacht cruise — Balkan Bump
@@ -434,7 +586,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jerro-aracely-20260719@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260719T150000
 DTEND;TZID=America/Los_Angeles:20260719T200000
 SUMMARY:Jerro (day party)
@@ -447,7 +599,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ali-farahani-hotelvia-20260719@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260719T140000
 DTEND;TZID=America/Los_Angeles:20260719T190000
 SUMMARY:Sunset Rooftop w/ Ali Farahani
@@ -462,7 +614,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:tuff-dore-alley-1015-20260723@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260723T220000
 DTEND;TZID=America/Los_Angeles:20260724T020000
 SUMMARY:TUFF — Dore Alley Weekend Kickoff
@@ -474,7 +626,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jody-wisternoff-audio-20260724@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260724T213000
 DTEND;TZID=America/Los_Angeles:20260725T020000
 SUMMARY:Jody Wisternoff & Nox Vahn (all night long)
@@ -486,8 +638,36 @@ CATEGORIES:HOUSE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:realbad-ritual-1015-20260724@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260724T220000
+DTEND;TZID=America/Los_Angeles:20260725T020000
+SUMMARY:Real Bad: RITUAL (Dore Alley)
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: house | Legendary SF queer house party — Dore Alley 
+ weekend edition. | Time approximate — check ticket link. | Tickets/info
+ : https://www.realbad.org/ritual
+URL:https://www.realbad.org/ritual
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:alchemy-sf-publicworks-20260724@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260724T210000
+DTEND;TZID=America/Los_Angeles:20260725T040000
+SUMMARY:Alchemy SF: Genix\, Jaytech\, Kristina Sky (Dore Alley)
+LOCATION:Public Works\, San Francisco
+DESCRIPTION:Genres: edm | Trance / progressive. $43-62. | Tickets/info: ht
+ tps://www.tixr.com/groups/publicsf/events/alchemy-sf-dore-alley-196883
+URL:https://www.tixr.com/groups/publicsf/events/alchemy-sf-dore-alley-1968
+ 83
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sam-feldt-audio-20260725@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260725T140000
 DTEND;TZID=America/Los_Angeles:20260725T190000
 SUMMARY:Sam Feldt (day party)
@@ -500,7 +680,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:soul-clap-audio-20260725@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260725T213000
 DTEND;TZID=America/Los_Angeles:20260726T020000
 SUMMARY:Soul Clap
@@ -512,7 +692,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:party-pupils-midway-20260725@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260725T140000
 DTEND;TZID=America/Los_Angeles:20260725T200000
 SUMMARY:Party Pupils x Goshfather (day party)
@@ -527,7 +707,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:niiko-swae-midway-20260725@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260725T210000
 DTEND;TZID=America/Los_Angeles:20260726T020000
 SUMMARY:Niiko x Swae
@@ -541,7 +721,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bassedelic-hella-bees-20260725@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260727
 SUMMARY:Bassedelic Weekender (Church of Drum and Bass)
@@ -554,7 +734,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:phreak-out-middleharbor-20260725@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260725T120000
 DTEND;TZID=America/Los_Angeles:20260725T190000
 SUMMARY:PHREAK Out: Oakland (outdoor daytime DnB)
@@ -567,7 +747,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:daxson-aura-20260725@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260725T213000
 DTEND;TZID=America/Los_Angeles:20260726T020000
 SUMMARY:Daxson
@@ -581,7 +761,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bassnectar-sj-20260725@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260725T150000
 SUMMARY:Bassnectar — The Homecoming Show
 LOCATION:1 Paseo de San Antonio\, San Jose
@@ -594,7 +774,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:colorize-praana-gn-20260731@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260731T200000
 DTEND;TZID=America/Los_Angeles:20260801T020000
 SUMMARY:Colorize: PRAANA\, Mees Salomé\, Jack Willard
@@ -609,7 +789,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:pegassi-1015-20260731@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260731T220000
 DTEND;TZID=America/Los_Angeles:20260801T020000
 SUMMARY:Pegassi (Factory 93)
@@ -621,7 +801,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:baytek-forbes-island-20260731@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260804
 SUMMARY:Baytek 2026
@@ -634,7 +814,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:chris-luno-620jones-20260801@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260801T140000
 DTEND;TZID=America/Los_Angeles:20260801T200000
 SUMMARY:Chris Luno (day party)
@@ -647,7 +827,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noir-high5ive-20260801@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260801T170000
 DTEND;TZID=America/Los_Angeles:20260801T210000
 SUMMARY:Noir: An Afrohouse Rooftop Experience
@@ -662,7 +842,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:atomic-groove-drakes-20260801@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260801T120000
 DTEND;TZID=America/Los_Angeles:20260801T220000
 SUMMARY:Atomic Groove (free\, 12-10 PM)
@@ -676,7 +856,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:no-signal-audio-20260802@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260802T150000
 DTEND;TZID=America/Los_Angeles:20260802T210000
 SUMMARY:No Signal SF — Whomp Wagon Fundraiser (day party)
@@ -691,7 +871,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:throttle-yukimatsu-1015-20260806@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260806T220000
 DTEND;TZID=America/Los_Angeles:20260807T020000
 SUMMARY:THROTTLE: Yousuke Yukimatsu (OSL night show) — SOLD OUT
@@ -704,7 +884,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zack-fox-midway-20260806@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260806T210000
 DTEND;TZID=America/Los_Angeles:20260807T010000
 SUMMARY:Zack Fox (DJ set)
@@ -718,7 +898,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:omnom-1015-20260807@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260807T220000
 DTEND;TZID=America/Los_Angeles:20260808T020000
 SUMMARY:OMNOM (OSL night show)
@@ -731,20 +911,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:griz-independent-20260807@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260807T220000
 DTEND;TZID=America/Los_Angeles:20260808T020000
-SUMMARY:GRiZ (OSL night show)
+SUMMARY:GRiZ (OSL night show) — SOLD OUT
 LOCATION:The Independent\, San Francisco
-DESCRIPTION:Genres: edm | Tickets/info: https://sfoutsidelands.com/music/n
- ight-shows
+DESCRIPTION:Genres: edm | Sold out per venue — watch for resale. | Ticke
+ ts/info: https://sfoutsidelands.com/music/night-shows
 URL:https://sfoutsidelands.com/music/night-shows
 CATEGORIES:EDM
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:outside-lands-20260807@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260810
 SUMMARY:Outside Lands 2026
@@ -760,7 +940,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jungle-cruise-boat-20260808@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260808T150000
 DTEND;TZID=America/Los_Angeles:20260808T210000
 SUMMARY:Jungle Cruise Boat Party (DnB)
@@ -774,7 +954,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:camoufly-gn-20260808@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260808T210000
 DTEND;TZID=America/Los_Angeles:20260809T020000
 SUMMARY:camoufly + 1-800 GIRLS (OSL night show)
@@ -787,20 +967,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ben-bohmer-independent-20260809@bay-events.cameronking
-DTSTAMP:20260706T214154Z
-DTSTART;TZID=America/Los_Angeles:20260809T200000
-DTEND;TZID=America/Los_Angeles:20260809T235900
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260809T220000
+DTEND;TZID=America/Los_Angeles:20260810T020000
 SUMMARY:Ben Böhmer (OSL night show)
 LOCATION:The Independent\, San Francisco
-DESCRIPTION:Genres: house | Time approximate — check ticket link. | Tick
- ets/info: https://sfoutsidelands.com/music/night-shows
+DESCRIPTION:Genres: house | Venue lists 10 PM start. | Time approximate 
+ — check ticket link. | Tickets/info: https://sfoutsidelands.com/music/n
+ ight-shows
 URL:https://sfoutsidelands.com/music/night-shows
 CATEGORIES:HOUSE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:desert-hearts-blanco-20260809@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260809T140000
 DTEND;TZID=America/Los_Angeles:20260809T200000
 SUMMARY:Desert Hearts Rooftop Party
@@ -815,7 +996,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lyny-1015-20260814@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260814T220000
 DTEND;TZID=America/Los_Angeles:20260815T020000
 SUMMARY:LYNY
@@ -827,7 +1008,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:texture-summit-publicworks-20260815@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260815T213000
 DTEND;TZID=America/Los_Angeles:20260816T020000
 SUMMARY:Texture Summit x Roam x Sirens ft. Juan Maclean (DFA)
@@ -842,7 +1023,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:embrz-audio-20260815@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260815T140000
 DTEND;TZID=America/Los_Angeles:20260815T190000
 SUMMARY:EMBRZ (day party)
@@ -855,7 +1036,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:afrobashment-crybaby-20260815@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260815T223000
 DTEND;TZID=America/Los_Angeles:20260816T020000
 SUMMARY:AFROBASHMENT
@@ -870,7 +1051,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bass-brunch-midway-20260815@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260815T140000
 DTEND;TZID=America/Los_Angeles:20260815T200000
 SUMMARY:Bass Brunch
@@ -884,7 +1065,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2000s-rave-midway-20260815@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260815T210000
 DTEND;TZID=America/Los_Angeles:20260816T020000
 SUMMARY:2000s Rave
@@ -898,7 +1079,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rival-consoles-1015-20260820@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260820T220000
 DTEND;TZID=America/Los_Angeles:20260821T020000
 SUMMARY:Rival Consoles Live A/V (w/ Khotin)
@@ -910,7 +1091,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:oliver-koletzki-publicworks-20260821@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260821T213000
 DTEND;TZID=America/Los_Angeles:20260822T020000
 SUMMARY:Oliver Koletzki
@@ -924,8 +1105,21 @@ CATEGORIES:TECHNO,HOUSE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:bijou-audio-20260821@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260821T213000
+DTEND;TZID=America/Los_Angeles:20260822T020000
+SUMMARY:BIJOU
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house | Bass house / G-house. ~$18-54. | Tickets/info:
+  https://m.audiosf.com/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:throttle-oguz-1015-20260821@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260821T220000
 DTEND;TZID=America/Los_Angeles:20260822T020000
 SUMMARY:THROTTLE: OGUZ (SF debut)
@@ -937,7 +1131,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wobbleland-sjcc-20260821@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260823
 SUMMARY:Wobbleland 2026 (Bassrush)
@@ -952,7 +1146,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:afrobeats-lake-snowpark-20260822@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260822T130000
 DTEND;TZID=America/Los_Angeles:20260822T200000
 SUMMARY:Afrobeats at the Lake — Juls (8th annual)
@@ -967,7 +1161,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:chris-lake-arena-green-20260822@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260822T140000
 DTEND;TZID=America/Los_Angeles:20260822T210000
 SUMMARY:Chris Lake (open air)
@@ -982,7 +1176,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:karaba-audio-20260822@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260822T193000
 DTEND;TZID=America/Los_Angeles:20260823T020000
 SUMMARY:Karaba + G-stav + Atang
@@ -995,7 +1189,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jungle-soundclash-20260822@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:The Bay vs. LA Jungle Soundclash Battle
@@ -1009,7 +1203,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:eric-luttrell-hotelvia-20260823@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260823T130000
 DTEND;TZID=America/Los_Angeles:20260823T180000
 SUMMARY:Eric Luttrell rooftop (Anjunadeep)
@@ -1024,7 +1218,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:chasewest-1015-20260828@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260828T220000
 DTEND;TZID=America/Los_Angeles:20260829T020000
 SUMMARY:ChaseWest
@@ -1035,8 +1229,35 @@ CATEGORIES:EDM
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:truncate-halcyon-20260828@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260828T220000
+DTEND;TZID=America/Los_Angeles:20260829T040000
+SUMMARY:Truncate (w/ Max Gardner\, Adra)
+LOCATION:Halcyon\, San Francisco
+DESCRIPTION:Genres: techno | LA warehouse techno. From $12. | Status: LIKE
+ LY (single source) — verify before going. | Tickets/info: https://dice.
+ fm/venue/halcyon-sf-mabv
+URL:https://dice.fm/venue/halcyon-sf-mabv
+CATEGORIES:TECHNO
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:deeper-purpose-audio-20260829@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260829T213000
+DTEND;TZID=America/Los_Angeles:20260830T020000
+SUMMARY:Deeper Purpose (w/ LOV3L3SS)
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house | Tech house. $17 presale. | Tickets/info: https
+ ://m.audiosf.com/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:crash-out-2-crybaby-20260829@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260829T220000
 DTEND;TZID=America/Los_Angeles:20260830T020000
 SUMMARY:Crash Out (2nd edition)
@@ -1051,7 +1272,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:kasbo-midway-20260830@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260830T150000
 DTEND;TZID=America/Los_Angeles:20260830T200000
 SUMMARY:Kasbo — Labyrinth Tour (day show)
@@ -1065,7 +1286,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jason-ross-1015-20260904@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260904T220000
 DTEND;TZID=America/Los_Angeles:20260905T020000
 SUMMARY:Jason Ross — The True North Tour
@@ -1078,7 +1299,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:electroluxx-pdm-midway-20260905@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260905T150000
 DTEND;TZID=America/Los_Angeles:20260905T220000
 SUMMARY:Electroluxx Block Party: Purple Disco Machine + RuPaul
@@ -1093,7 +1314,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:love-supreme-chapel-20260906@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260906T140000
 DTEND;TZID=America/Los_Angeles:20260906T200000
 SUMMARY:Love Supreme: Summer Day Party
@@ -1107,8 +1328,36 @@ CATEGORIES:AFROBEATS,AMAPIANO,HOUSE,DAY-PARTY
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:alan-walker-discoverymeadow-20260906@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260906T150000
+DTEND;TZID=America/Los_Angeles:20260906T220000
+SUMMARY:Alan Walker (Insomniac open air)
+LOCATION:Discovery Meadow\, San Jose
+DESCRIPTION:Genres: edm | W/ Ian Asher\, LAVERN\, Tsu Nami\, Blkwood. 18+\
+ , GA from ~$79. | Tickets/info: https://www.tixr.com/groups/npulive/event
+ s/alan-walker-ian-asher-lavern-more-at-discovery-meadow-193280
+URL:https://www.tixr.com/groups/npulive/events/alan-walker-ian-asher-laver
+ n-more-at-discovery-meadow-193280
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ezequiel-arias-audio-20260911@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260911T213000
+DTEND;TZID=America/Los_Angeles:20260912T020000
+SUMMARY:Ezequiel Arias
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: house | Argentine progressive house (Anjunadeep/Sudbea
+ t). | Tickets/info: https://m.audiosf.com/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fatima-hajji-publicworks-20260911@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260911T213000
 DTEND;TZID=America/Los_Angeles:20260912T020000
 SUMMARY:Fatima Hajji
@@ -1123,7 +1372,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:joshwa-audio-20260912@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260912T213000
 DTEND;TZID=America/Los_Angeles:20260913T020000
 SUMMARY:JOSHWA (Audio debut)
@@ -1136,7 +1385,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:stamped-endup-20260912@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260912T150000
 DTEND;TZID=America/Los_Angeles:20260912T210000
 SUMMARY:STAMPED: AYA x Friends (afrobeats/amapiano day party)
@@ -1151,7 +1400,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sabai-sjcivic-20260912@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260912T200000
 DTEND;TZID=America/Los_Angeles:20260912T235900
 SUMMARY:SABAI presents IKIGAI Bay Area
@@ -1163,8 +1412,36 @@ CATEGORIES:EDM
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:daniel-avery-independent-20260918@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260918T210000
+DTEND;TZID=America/Los_Angeles:20260919T010000
+SUMMARY:Daniel Avery (live)
+LOCATION:The Independent\, San Francisco
+DESCRIPTION:Genres: techno | Venue lists Friday Sep 18\, 9 PM (19hz had Se
+ p 19 — venue wins). | Tickets/info: https://www.theindependentsf.com/
+URL:https://www.theindependentsf.com/
+CATEGORIES:TECHNO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:francis-mercier-goldbarhangar-20260918@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20260918T210000
+DTEND;TZID=America/Los_Angeles:20260919T020000
+SUMMARY:Francis Mercier b2b DJ Habibeats
+LOCATION:Gold Bar Hangar\, Alameda
+DESCRIPTION:Genres: house\, afrobeats | Afro/organic house\, extended set.
+  $37-49\, 21+. | Tickets/info: https://www.eventbrite.com/e/francis-merci
+ er-b2b-dj-habibeats-at-gold-bar-hangar-tickets-1990517105245
+URL:https://www.eventbrite.com/e/francis-mercier-b2b-dj-habibeats-at-gold-
+ bar-hangar-tickets-1990517105245
+CATEGORIES:HOUSE,AFROBEATS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:nick-warren-audio-20260918@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260918T213000
 DTEND;TZID=America/Los_Angeles:20260919T020000
 SUMMARY:Nick Warren (w/ Verlk)
@@ -1177,7 +1454,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:mild-minds-1015-20260918@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260918T220000
 DTEND;TZID=America/Los_Angeles:20260919T020000
 SUMMARY:Mild Minds (DJ set)
@@ -1189,7 +1466,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:entanglement-20260918@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
 SUMMARY:Entanglement — techno/electro/jungle/UKG
@@ -1203,7 +1480,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:love-supreme-chapel-20260920@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20260920T140000
 DTEND;TZID=America/Los_Angeles:20260920T200000
 SUMMARY:Love Supreme: Summer Day Party
@@ -1218,7 +1495,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:portola-20260926@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:PORTOLA MUSIC FESTIVAL 2026
@@ -1234,8 +1511,36 @@ CATEGORIES:FESTIVAL,TECHNO,HOUSE,EDM
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:madeon-billgraham-20261002@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20261002T200000
+DTEND;TZID=America/Los_Angeles:20261002T235900
+SUMMARY:Madeon presents Victory Live
+LOCATION:Bill Graham Civic Auditorium\, San Francisco
+DESCRIPTION:Genres: edm\, house | New live show. 18+\, from ~$89. | Ticket
+ s/info: https://www.livenation.com/event/G5vYZ_1K6Y0Pb/madeon-presents-vi
+ ctory-live-18
+URL:https://www.livenation.com/event/G5vYZ_1K6Y0Pb/madeon-presents-victory
+ -live-18
+CATEGORIES:EDM,HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:baauer-audio-20261009@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20261009T213000
+DTEND;TZID=America/Los_Angeles:20261010T020000
+SUMMARY:Baauer (The U Experience)
+LOCATION:Audio\, San Francisco
+DESCRIPTION:Genres: edm | Time approximate — check ticket link. | Ticket
+ s/info: https://m.audiosf.com/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:EDM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:whipped-cream-midway-20261009@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20261009T210000
 DTEND;TZID=America/Los_Angeles:20261010T020000
 SUMMARY:Whipped Cream
@@ -1248,7 +1553,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:london-elektricity-oakland-20261010@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20261010T220000
 DTEND;TZID=America/Los_Angeles:20261011T020000
 SUMMARY:London Elektricity + Natty Lou + Naste (Church of Drum and Bass)
@@ -1261,7 +1566,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:tinlicker-midway-20261010@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;TZID=America/Los_Angeles:20261010T210000
 DTEND;TZID=America/Los_Angeles:20261011T020000
 SUMMARY:Tinlicker
@@ -1273,8 +1578,21 @@ CATEGORIES:HOUSE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:dom-dolla-cowpalace-20261016@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20261016T200000
+DTEND;TZID=America/Los_Angeles:20261016T235900
+SUMMARY:Dom Dolla (w/ Sam Gellaitry\, Saint Ludo)
+LOCATION:Cow Palace\, Daly City
+DESCRIPTION:Genres: house | Tech house arena show. 18+. | Tickets/info: ht
+ tps://www.cowpalace.com/event/dom-dolla/
+URL:https://www.cowpalace.com/event/dom-dolla/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:day-trip-norcal-20261017@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY:Day Trip Festival NorCal — Gordo\, Vintage Culture\, Wax Motif
@@ -1286,8 +1604,36 @@ CATEGORIES:HOUSE,FESTIVAL
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cid-maesic-1015-20261023@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20261023T220000
+DTEND;TZID=America/Los_Angeles:20261024T020000
+SUMMARY:CID x Maesic
+LOCATION:1015 Folsom\, San Francisco
+DESCRIPTION:Genres: house | Tech house. Presale via Laylo on venue site. |
+  Time approximate — check ticket link. | Tickets/info: https://1015.com
+ /
+URL:https://1015.com/
+CATEGORIES:HOUSE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sidepiece-goldbar-20261024@bay-events.cameronking
+DTSTAMP:20260706T222641Z
+DTSTART;TZID=America/Los_Angeles:20261024T140000
+DTEND;TZID=America/Los_Angeles:20261024T200000
+SUMMARY:SIDEPIECE (day party)
+LOCATION:Gold Bar Distillery\, San Francisco
+DESCRIPTION:Genres: house\, day-party | Listed on Audio SF calendar. | Tim
+ e approximate — check ticket link. | Tickets/info: https://m.audiosf.co
+ m/events/
+URL:https://m.audiosf.com/events/
+CATEGORIES:HOUSE,DAY-PARTY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:sunset-halloween-boat-20261025@bay-events.cameronking
-DTSTAMP:20260706T214154Z
+DTSTAMP:20260706T222641Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Sunset Sound System Halloween Costume Boat Party

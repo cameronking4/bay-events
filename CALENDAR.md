@@ -15,33 +15,46 @@ _Techno, house, EDM, amapiano, afrobeats & drum and bass events in SF / Oakland 
 
 - **Thu Jul 9** 22:00 — BIIANCO + Bushbaby — 1015 Folsom, San Francisco 🔊🏠 ([tickets](https://1015.com/))
 - **Fri Jul 10** 20:00 — Fraktured & Friends (free) — Asiento, San Francisco 🥁 _unconfirmed_ ([tickets](https://19hz.info/eventlisting_BayArea.php)) — Drum & bass / jungle / breaks. Free, 21+.
+- **Fri Jul 10** 20:00 — SLANDER w/ Space Laces — SOLD OUT — Bill Graham Civic Auditorium, San Francisco 🎆 ([tickets](https://billgrahamcivic.com/events/slander-260710)) — Night 1 of 2. Doors 7 PM. 18+. Sold out — resale via AXS.
 - **Fri Jul 10** 21:00 — Lotek — Elbo Room Jack London, Oakland 🏠🔊🥁 ([tickets](https://ra.co/events/2474595)) — Lonald J. Bandz, lilia, Zero Idea, Soeneido.
+- **Fri Jul 10** 21:00 — Mark Farina & Mr. V (Ramirez Touch) — Cardiff & Cocktails, Campbell 🏠 ([tickets](https://19hz.info/eventlisting_BayArea.php)) — SF house legend. ~$18-29, 21+. Listed 'almost full'.
 - **Fri Jul 10** 21:30 — Louie Vega w/ David Harness — Public Works, San Francisco 🏠 ([tickets](https://www.tixr.com/groups/publicsf/events/louie-vega-presented-by-public-works-15utah-187070)) — House legend (Masters at Work). Sales flagged as ending soon.
 - **Fri Jul 10** 22:00 — THROTTLE: Marie Vaunt — 1015 Folsom, San Francisco 🔊 ([tickets](https://ra.co/events/2407527)) — Low-ticket warning. W/ Max Gardner b2b Adra, Youngmin Joo.
 - **Fri Jul 10** 22:00 — Shake Body: Summer Nights — Temple Nightclub, San Francisco 🪘 ([tickets](https://www.eventbrite.com/e/shake-body-summer-nights-tickets-1992977059033)) — Flygerian Jeff, DJ Dennis, Madder.
+- **Fri Jul 10** 22:00 — Klaudia Gawlas — Halcyon, San Francisco 🔊 ([tickets](https://dice.fm/event/rykl2r-klaudia-gawlas-10th-jul-halcyon-sf-san-francisco-tickets)) — German techno. W/ Lyssn Up, Fiers. From $12.
 - **Sat Jul 11** 14:00 — Mango Szn Day Party — The Midway, San Francisco 🏠☀️ ([tickets](https://www.tixr.com/groups/midwaysf/events/mango-szn-debut-day-party-194632)) — Farooq Got Audio, Qaotiq. Tech house / indo house.
 - **Sat Jul 11** 15:00 — Anjunadeep Open Air Bay Area — The Ruins, American Canyon 🏠☀️ ([tickets](https://www.ticketmaster.com/anjunadeep-open-air-bay-area-at-american-canyon-07-11-2026/event/Z7r9jZ1A7-9Od))
 - **Sat Jul 11** 16:00 — Pier Pressure Boat Party — departs Fisherman's Wharf, San Francisco 🎆🏠⛵ ([tickets](https://www.instagram.com/yinyoni.events))
-- **Sat Jul 11** 16:00 — OMNOM — Unzipped Gardens, San Jose 🏠☀️ _unconfirmed_ ([tickets](https://edmtrain.com/san-jose-ca))
+- **Sat Jul 11** 16:00 — OMNOM — Unzipped Gardens, San Jose 🏠☀️ ([tickets](https://www.eventbrite.com/e/omnom-at-unzipped-gardens-san-jose-tickets-1989195450139)) — Outdoor at the Serpentine Pavilion, SoFA district. W/ Caleb Dent. 18+.
+- **Sat Jul 11** 20:00 — SLANDER w/ Nurko, Taiki Nulight, VCTRE — Bill Graham Civic Auditorium, San Francisco 🎆 ([tickets](https://billgrahamcivic.com/calendar/)) — Night 2 of 2. Doors 7 PM. 18+.
 - **Sat Jul 11** 21:00 — Electrik Seoul (K-pop x EDM) — HYO — The Midway, San Francisco 🎆 ([tickets](https://www.tixr.com/groups/midwaysf/events/electrik-seoul-k-pop-x-edm-185965))
 - **Sat Jul 11** 21:30 — Anjunadeep Bay Area After Party — Audio + Bella, San Francisco 🏠 ([tickets](https://www.eventbrite.com/e/anjunadeep-bay-area-after-party-at-audio-bella-sf-tickets-1992853858537)) — Official after party for Anjunadeep Open Air. ~$25.
 - **Sat Jul 11** 22:00 — Crash Out! — Crybaby, Oakland 🪘 ([tickets](https://www.eventbrite.com/e/crash-out-afrobeats-dancehall-hip-hop-more-tickets-1993065124439)) — Afrobeats/dancehall/soca. Jaymeebaaby, Chubb E Swagg, Limo.
 - **Sun Jul 12** 14:00 — Yung Singh (day party) — Audio, San Francisco 🏠☀️ ([tickets](https://www.eventbrite.com/e/yung-singh-tickets-1991018528014))
+- **Thu Jul 16** 19:00 — Max Cooper — 3D/AV Live 'Feeling Is Structure' — Gray Area, San Francisco 🔊 ([tickets](https://grayarea.org/events/)) — Night 1 of 2. $37-44, 21+.
+- **Fri Jul 17** 19:30 — Bob Moses & Cannons — AfterGlow Tour — Greek Theatre, Berkeley 🏠🎆 ([tickets](https://apeconcerts.com/events/bob-moses-cannons-260717/)) — Live electronic. Doors 6:30 PM, all ages, GA.
+- **Fri Jul 17** 20:00 — Max Cooper — 3D/AV Live 'Feeling Is Structure' — Gray Area, San Francisco 🔊 ([tickets](https://grayarea.org/events/)) — Night 2 of 2. $37-44, 21+.
+- **Fri Jul 17** 21:00 — bad tuner + VEGGI — The Independent, San Francisco 🏠 ([tickets](https://www.theindependentsf.com/)) — UK garage / funky house. ~$34, 18+.
+- **Fri Jul 17** 21:00 — Satoshi Tomiie — Monarch, San Francisco 🏠🔊 _unconfirmed_ ([tickets](https://19hz.info/eventlisting_BayArea.php)) — NYC/Def Mix house legend. W/ Philco, Jkey, Ledet. $23-34.
 - **Fri Jul 17** 21:00 — Yaeji — The Midway, San Francisco 🏠 ([tickets](https://www.tixr.com/groups/midwaysf/events/yaeji-186733))
 - **Fri Jul 17** 21:00 — Create and Destroy: Craze x Dieselboy — The Midway (Terrace), San Francisco 🥁 ([tickets](https://www.axs.com/events/1472804/craze-and-dieselboy-tickets)) — ~$25-31, 21+.
 - **Fri Jul 17** 21:30 — Morgan Page (Classics Only) — Audio, San Francisco 🎆🏠 ([tickets](https://m.audiosf.com/events/))
 - **Fri Jul 17** 22:00 — Stephan Bodzin LIVE A/V — 1015 Folsom, San Francisco 🔊 ([tickets](https://wl.eventim.us/event/stephan-bodzin/690548?afflky=1015Folsom)) — Melodic techno live A/V.
 - **Fri Jul 17–20** — Dirtybird Campout x Northern Nights — Cooks Valley Campground, Piercy, CA 🏠🎆🎪 ([tickets](https://www.tixr.com/pr/FB/160064)) — House/bass camping festival, ~3.5 hr north of SF.
 - **Sat Jul 18** 14:00 — Lavern Day Party — 620 Jones, San Francisco 🏠☀️ ([tickets](https://ra.co/events/2438763))
+- **Sat Jul 18** 14:00 — Sunshine People: Mike Dunn + Coflo (day party) — Mad Oak Bar, Oakland 🏠☀️ _unconfirmed_ ([tickets](https://19hz.info/eventlisting_BayArea.php)) — Chicago house legend Mike Dunn. ~$18-29, 21+.
 - **Sat Jul 18** 15:00 — Five Finger Disco x Elements — 7th West, Oakland 🏠☀️ ([tickets](https://shotgun.live/en/events/ffdsummer1)) — Nina Sol, Patrick Wilson, Charles Hawthorne. Funky/soulful house & disco.
 - **Sat Jul 18** 21:00 — Uncle Waffles — Midway 9-Year Anniversary — The Midway, San Francisco 🪘 ([tickets](https://www.tixr.com/groups/midwaysf/events/uncle-waffles-the-midway-s-9-year-anniversary-186889)) — Amapiano's biggest star.
+- **Sat Jul 18** 21:00 — Droid9 pres. Alex O'Rion — Public Works (Loft), San Francisco 🏠 ([tickets](https://www.tixr.com/groups/publicsf/events/droid9-pres-alex-o-rion-189195)) — Progressive house. $10-20.
 - **Sat Jul 18** 21:30 — K?D — End of the Universe Tour (final future bass show) — Public Works, San Francisco 🎆 ([tickets](https://www.tixr.com/groups/publicsf/events/k-d-end-of-the-universe-tour-the-final-future-bass-show-185562)) — W/ Moore Kismet, Chanse, Norae, Kaos.
 - **Sun Jul 19** 14:00 — Love Supreme: Summer Day Party — The Chapel, San Francisco 🪘🏠☀️ ([tickets](https://www.eventim.us/event/love-supreme-summer-day-party-series/697524)) — Travie Bobbito, King Most, Bella D. ~$15-27.
 - **Sun Jul 19** 14:00 — Sunset Rooftop w/ Ali Farahani — Hotel VIA Rooftop, San Francisco 🏠☀️ ([tickets](https://www.eventbrite.com/e/sunset-rooftop-party-with-ali-farahani-at-via-hotel-tickets-1987643036829))
 - **Sun Jul 19** 15:00 — Jerro (day party) — Aracely Cafe, Treasure Island, San Francisco 🏠☀️ ([tickets](https://ra.co/events/2426054))
 - **Sun Jul 19** 17:00 — Beats On The Bay yacht cruise — Balkan Bump — The Merlot, departs Alameda, Alameda 🏠🥁⛵ ([tickets](https://aplacetolove.earth/tickets))
 - **Thu Jul 23** 22:00 — TUFF — Dore Alley Weekend Kickoff — 1015 Folsom, San Francisco 🔊 ([tickets](https://1015.com/))
+- **Fri Jul 24** 21:00 — Alchemy SF: Genix, Jaytech, Kristina Sky (Dore Alley) — Public Works, San Francisco 🎆 ([tickets](https://www.tixr.com/groups/publicsf/events/alchemy-sf-dore-alley-196883)) — Trance / progressive. $43-62.
 - **Fri Jul 24** 21:30 — Jody Wisternoff & Nox Vahn (all night long) — Audio, San Francisco 🏠 ([tickets](https://m.audiosf.com/events/)) — Anjunadeep.
+- **Fri Jul 24** 22:00 — Real Bad: RITUAL (Dore Alley) — 1015 Folsom, San Francisco 🏠 ([tickets](https://www.realbad.org/ritual)) — Legendary SF queer house party — Dore Alley weekend edition.
 - **Sat Jul 25** 12:00 — PHREAK Out: Oakland (outdoor daytime DnB) — Middle Harbor Shoreline Park, Oakland 🥁☀️ _unconfirmed_ ([tickets](https://rhythmicremedies.org/events))
 - **Sat Jul 25** 14:00 — Sam Feldt (day party) — Audio, San Francisco 🏠☀️ ([tickets](https://www.axs.com/events/1454743))
 - **Sat Jul 25** 14:00 — Party Pupils x Goshfather (day party) — The Midway, San Francisco 🏠☀️ ([tickets](https://www.tixr.com/groups/midwaysf/events/party-pupils-x-goshfather-disco-house-vs-yacht-house-190125)) — Disco house vs yacht house.
@@ -62,12 +75,12 @@ _Techno, house, EDM, amapiano, afrobeats & drum and bass events in SF / Oakland 
 - **Thu Aug 6** 21:00 — Zack Fox (DJ set) — The Midway, San Francisco 🏠 ([tickets](https://www.tixr.com/groups/midwaysfgv/events/zack-fox-182813)) — House/techno/ghettotech. Goldenvoice.
 - **Thu Aug 6** 22:00 — THROTTLE: Yousuke Yukimatsu (OSL night show) — SOLD OUT — 1015 Folsom, San Francisco 🔊 ([tickets](https://apeconcerts.com/events/yousuke-yukimatsu-260806/)) — Reported sold out — watch for resale.
 - **Fri Aug 7** 22:00 — OMNOM (OSL night show) — 1015 Folsom, San Francisco 🏠 ([tickets](https://wl.eventim.us/event/omnom/696257?afflky=1015Folsom))
-- **Fri Aug 7** 22:00 — GRiZ (OSL night show) — The Independent, San Francisco 🎆 ([tickets](https://sfoutsidelands.com/music/night-shows))
+- **Fri Aug 7** 22:00 — GRiZ (OSL night show) — SOLD OUT — The Independent, San Francisco 🎆 ([tickets](https://sfoutsidelands.com/music/night-shows)) — Sold out per venue — watch for resale.
 - **Fri Aug 7–9** — Outside Lands 2026 — Golden Gate Park, San Francisco 🎪🎆🏠🔊 ([tickets](https://sfoutsidelands.com/)) — Electronic: RUFUS DU SOL, Boris Brejcha, Boys Noize, Miss Monique, Carlita (Sun); Lane 8, Ben Bohmer, Sultan+Shepard (Sat); GRiZTRONICS, HYPERBEAM, Yousuke Yukimatsu, KI/KI (Fri). 3-day GA sold out; single days via Front Gate.
 - **Sat Aug 8** 15:00 — Jungle Cruise Boat Party (DnB) — departs Fisherman's Wharf, San Francisco 🥁⛵ ([tickets](https://calling-all-ravers-jungle-cruise-boat-party.secretparty.io)) — ~$108. MF Mama, Lucy Stoner, Chronique + MC Alkamystix.
 - **Sat Aug 8** 21:00 — camoufly + 1-800 GIRLS (OSL night show) — The Great Northern, San Francisco 🎆🏠 ([tickets](https://sfoutsidelands.com/music/night-shows))
 - **Sun Aug 9** 14:00 — Desert Hearts Rooftop Party — Blanco Urban, San Jose 🏠🔊☀️ ([tickets](https://www.eventbrite.com/e/desert-hearts-san-jose-rooftop-party-tickets-1992137866987)) — Tara Brooks, Deep Pedi, Logan Conners.
-- **Sun Aug 9** 20:00 — Ben Böhmer (OSL night show) — The Independent, San Francisco 🏠 ([tickets](https://sfoutsidelands.com/music/night-shows))
+- **Sun Aug 9** 22:00 — Ben Böhmer (OSL night show) — The Independent, San Francisco 🏠 ([tickets](https://sfoutsidelands.com/music/night-shows)) — Venue lists 10 PM start.
 - **Fri Aug 14** 22:00 — LYNY — 1015 Folsom, San Francisco 🎆 ([tickets](https://1015.com/))
 - **Sat Aug 15** 14:00 — EMBRZ (day party) — Audio, San Francisco 🏠☀️ ([tickets](https://m.audiosf.com/events/))
 - **Sat Aug 15** 14:00 — Bass Brunch — The Midway, San Francisco 🎆☀️ ([tickets](https://www.tixr.com/groups/midwaysf/events/bass-brunch-by-thematic-entertainment-192386))
@@ -76,6 +89,7 @@ _Techno, house, EDM, amapiano, afrobeats & drum and bass events in SF / Oakland 
 - **Sat Aug 15** 22:30 — AFROBASHMENT — Crybaby, Oakland 🪘 ([tickets](https://www.ticketweb.com/event/afrobashment-afrobeats-dancehall-hip-hop-crybaby-tickets/14210794)) — Amapiano patio takeover by FAAJI in past editions.
 - **Thu Aug 20** 22:00 — Rival Consoles Live A/V (w/ Khotin) — 1015 Folsom, San Francisco 🔊 ([tickets](https://1015.com/))
 - **Fri Aug 21** 21:30 — Oliver Koletzki — Public Works, San Francisco 🔊🏠 ([tickets](https://www.tixr.com/groups/publicsf/events/oliver-koletzki-presented-by-public-works-188501)) — Stil vor Talent.
+- **Fri Aug 21** 21:30 — BIJOU — Audio, San Francisco 🏠 ([tickets](https://m.audiosf.com/events/)) — Bass house / G-house. ~$18-54.
 - **Fri Aug 21** 22:00 — THROTTLE: OGUZ (SF debut) — 1015 Folsom, San Francisco 🔊 ([tickets](https://ra.co/events/2470814))
 - **Fri Aug 21–22** — Wobbleland 2026 (Bassrush) — San Jose Convention Center, San Jose 🎆🥁🎪 ([tickets](https://bassrush.frontgatetickets.com/event/p5uo1c8jikpiero6)) — 6 PM nightly, 18+. Excision, Alison Wonderland b2b NGHTMRE, Adventure Club, Ray Volpe, Hedex (DnB).
 - **Sat Aug 22** 13:00 — Afrobeats at the Lake — Juls (8th annual) — Snow Park, Lake Merritt, Oakland 🪘☀️ ([tickets](https://www.eventbrite.com/e/the-eighth-annual-afrobeats-at-the-lake-2026-oakland-ca-tickets-1990061660999)) — All ages, outdoor. Juls headlining.
@@ -84,6 +98,8 @@ _Techno, house, EDM, amapiano, afrobeats & drum and bass events in SF / Oakland 
 - **Sat Aug 22** — The Bay vs. LA Jungle Soundclash Battle — TBA, San Francisco 🥁 _unconfirmed_ ([tickets](https://the-bay-vs-la-junglesoundclashbattle-82226.secretparty.io)) — Venue TBA — recheck closer to date.
 - **Sun Aug 23** 13:00 — Eric Luttrell rooftop (Anjunadeep) — Hotel VIA Rooftop, San Francisco 🏠☀️ ([tickets](https://www.eventbrite.com/e/eric-luttrell-at-the-hotel-via-rooftop-tickets-1987478853753)) — Listed 'Almost full' — buy soon.
 - **Fri Aug 28** 22:00 — ChaseWest — 1015 Folsom, San Francisco 🎆 ([tickets](https://1015.com/))
+- **Fri Aug 28** 22:00 — Truncate (w/ Max Gardner, Adra) — Halcyon, San Francisco 🔊 _unconfirmed_ ([tickets](https://dice.fm/venue/halcyon-sf-mabv)) — LA warehouse techno. From $12.
+- **Sat Aug 29** 21:30 — Deeper Purpose (w/ LOV3L3SS) — Audio, San Francisco 🏠 ([tickets](https://m.audiosf.com/events/)) — Tech house. $17 presale.
 - **Sat Aug 29** 22:00 — Crash Out (2nd edition) — Crybaby, Oakland 🪘 ([tickets](https://www.ticketweb.com/event/crash-out-afrobeats-dancehall-hip-crybaby-tickets/14986193))
 - **Sun Aug 30** 15:00 — Kasbo — Labyrinth Tour (day show) — The Midway, San Francisco 🎆☀️ ([tickets](https://www.tixr.com/groups/midwaysf/events/kasbo-labyrinth-tour-188803))
 ## September 2026
@@ -91,10 +107,14 @@ _Techno, house, EDM, amapiano, afrobeats & drum and bass events in SF / Oakland 
 - **Fri Sep 4** 22:00 — Jason Ross — The True North Tour — 1015 Folsom, San Francisco 🎆 ([tickets](https://www.axs.com/events/1442673/jason-ross-tickets))
 - **Sat Sep 5** 15:00 — Electroluxx Block Party: Purple Disco Machine + RuPaul — The Midway, San Francisco 🏠☀️ ([tickets](https://www.tixr.com/groups/midwaysf/events/electroluxx-block-party-purple-disco-machine-rupaul-more-188276))
 - **Sun Sep 6** 14:00 — Love Supreme: Summer Day Party — The Chapel, San Francisco 🪘🏠☀️ ([tickets](https://www.eventim.us/event/love-supreme-summer-day-party-series/697819))
+- **Sun Sep 6** 15:00 — Alan Walker (Insomniac open air) — Discovery Meadow, San Jose 🎆 ([tickets](https://www.tixr.com/groups/npulive/events/alan-walker-ian-asher-lavern-more-at-discovery-meadow-193280)) — W/ Ian Asher, LAVERN, Tsu Nami, Blkwood. 18+, GA from ~$79.
+- **Fri Sep 11** 21:30 — Ezequiel Arias — Audio, San Francisco 🏠 ([tickets](https://m.audiosf.com/events/)) — Argentine progressive house (Anjunadeep/Sudbeat).
 - **Fri Sep 11** 21:30 — Fatima Hajji — Public Works, San Francisco 🔊 ([tickets](https://www.tixr.com/groups/publicsf/events/fatima-hajji-presented-by-public-works-193237)) — Spanish techno. From ~$58.
 - **Sat Sep 12** 15:00 — STAMPED: AYA x Friends (afrobeats/amapiano day party) — The EndUp, San Francisco 🪘☀️ ([tickets](https://www.eventbrite.com/e/stamped-aya-x-friends-san-francisco-edition-afrobeats-amapiano-tickets-1985882863102))
 - **Sat Sep 12** 20:00 — SABAI presents IKIGAI Bay Area — San Jose Civic, San Jose 🎆 ([tickets](https://www.ticketmaster.com/event/1C00647FE6758CE2)) — W/ Haliene, Mvse, Miles Away.
 - **Sat Sep 12** 21:30 — JOSHWA (Audio debut) — Audio, San Francisco 🏠 ([tickets](https://m.audiosf.com/events/)) — Tech house. From ~$34.
+- **Fri Sep 18** 21:00 — Daniel Avery (live) — The Independent, San Francisco 🔊 ([tickets](https://www.theindependentsf.com/)) — Venue lists Friday Sep 18, 9 PM (19hz had Sep 19 — venue wins).
+- **Fri Sep 18** 21:00 — Francis Mercier b2b DJ Habibeats — Gold Bar Hangar, Alameda 🏠🪘 ([tickets](https://www.eventbrite.com/e/francis-mercier-b2b-dj-habibeats-at-gold-bar-hangar-tickets-1990517105245)) — Afro/organic house, extended set. $37-49, 21+.
 - **Fri Sep 18** 21:30 — Nick Warren (w/ Verlk) — Audio, San Francisco 🏠 ([tickets](https://m.audiosf.com/events/)) — Progressive house veteran.
 - **Fri Sep 18** 22:00 — Mild Minds (DJ set) — 1015 Folsom, San Francisco 🏠 ([tickets](https://1015.com/))
 - **Fri Sep 18–20** — Entanglement — techno/electro/jungle/UKG — TBA, Bay Area 🔊🥁 _unconfirmed_ ([tickets](https://www.instagram.com/__endzeit)) — Venue TBA — recheck closer to date.
@@ -102,8 +122,13 @@ _Techno, house, EDM, amapiano, afrobeats & drum and bass events in SF / Oakland 
 - **Sat Sep 26–27** — PORTOLA MUSIC FESTIVAL 2026 — Pier 80, San Francisco 🎪🔊🏠🎆 ([tickets](https://www.axs.com/events/1434447/portola-2026-tickets?skin=portola)) — Sat: Robyn, Dog Blood, Fatboy Slim, Soulwax, Kettama, Skepta, Groove Armada. Sun: Swedish House Mafia, Tiesto, Four Tet, Overmono, Mochakk, Daphni. Despacio all weekend. 21+, 1 PM doors. 2-day GA $399.95 / 1-day $269.95.
 ## October 2026
 
+- **Fri Oct 2** 20:00 — Madeon presents Victory Live — Bill Graham Civic Auditorium, San Francisco 🎆🏠 ([tickets](https://www.livenation.com/event/G5vYZ_1K6Y0Pb/madeon-presents-victory-live-18)) — New live show. 18+, from ~$89.
 - **Fri Oct 9** 21:00 — Whipped Cream — The Midway, San Francisco 🎆 ([tickets](https://www.tixr.com/groups/midwaysf))
+- **Fri Oct 9** 21:30 — Baauer (The U Experience) — Audio, San Francisco 🎆 ([tickets](https://m.audiosf.com/events/))
 - **Sat Oct 10** 21:00 — Tinlicker — The Midway, San Francisco 🏠 ([tickets](https://www.tixr.com/groups/midwaysf))
 - **Sat Oct 10** 22:00 — London Elektricity + Natty Lou + Naste (Church of Drum and Bass) — Church of Drum and Bass, Oakland 🥁 ([tickets](https://19hz.info/eventlisting_BayArea.php))
+- **Fri Oct 16** 20:00 — Dom Dolla (w/ Sam Gellaitry, Saint Ludo) — Cow Palace, Daly City 🏠 ([tickets](https://www.cowpalace.com/event/dom-dolla/)) — Tech house arena show. 18+.
 - **Sat Oct 17–18** — Day Trip Festival NorCal — Gordo, Vintage Culture, Wax Motif — Discovery Meadow, San Jose 🏠🎪 ([tickets](https://www.insomniac.com/))
+- **Fri Oct 23** 22:00 — CID x Maesic — 1015 Folsom, San Francisco 🏠 ([tickets](https://1015.com/)) — Tech house. Presale via Laylo on venue site.
+- **Sat Oct 24** 14:00 — SIDEPIECE (day party) — Gold Bar Distillery, San Francisco 🏠☀️ ([tickets](https://m.audiosf.com/events/)) — Listed on Audio SF calendar.
 - **Sun Oct 25** — Sunset Sound System Halloween Costume Boat Party — departs San Francisco, San Francisco 🏠⛵ ([tickets](https://www.sunsetsoundsystem.com/events)) — Legendary SF boat party crew.
