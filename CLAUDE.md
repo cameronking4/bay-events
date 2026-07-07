@@ -31,9 +31,11 @@ Living calendar of Bay Area electronic music events (techno, house, EDM, amapian
    ```
    The push is what updates subscribers — never skip it after changing events.json.
 
-## Standing leads to re-check (as of 2026-07-06)
+## Standing leads to re-check (as of 2026-07-07)
 
-- Sunset Sound System summer boat party — not announced yet; watch sunsetsoundsystem.com/events
+- Sunset Sound System summer boat party — not announced yet (only the Oct 25 Halloween boat, already tracked); watch sunsetsoundsystem.com/events
 - Second Sky (Porter Robinson) — no 2026 edition announced; watch secondskyfest.com
-- The New Parish "Afro Rave", Bissap Baobab amapiano nights — announce on short lead
-- Oakland warehouse parties via 19hz; Outside Lands night-show additions
+- Afro Rave (Oakland) — no longer at The New Parish; 2026 editions were at Hella Bees and Starline Social Club. Watch the Afrobeats Oakland Eventbrite organizer, not thenewparish.com
+- Bissap Baobab amapiano nights — site calendar is stale; they announce on short lead via Eventbrite/Instagram
+- Mura Masa // Curve 2026-07-18 (tracked, likely) — venue still TBA; Jungle Soundclash 2026-08-22 (tracked, likely) — vanished from 19hz, may be pulled
+- Oakland warehouse parties via 19hz; Outside Lands night-show additions; Halcyon Sep–Oct listings not yet published
